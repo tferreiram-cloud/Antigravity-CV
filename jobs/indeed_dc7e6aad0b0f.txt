@@ -1,0 +1,41 @@
+Senior Product Manager - Pismo
+
+**Company Description**  
+
+Founded by experienced entrepreneurs and engineers in 2016, Pismo is a technology company that provides a comprehensive processing platform for banking, card issuing and financial market infrastructure and helps customers innovate and build the next generation of banking and payment solutions. Pismo joined Visa in 2024\.
+
+
+Leveraging Visa’s solutions, our core platform, and an expanding suite of capabilities, Pismo addresses the technological challenges that large banks, marketplaces, and fintech companies face in migrating from legacy systems to more advanced technology in the market. Pismo’s cloud\-based platform empowers firms to build and launch financial products rapidly, scaling as they grow to have a broader audience while keeping high security and availability standards.
+
+
+Pismo’s 500\+ employees are located in more than 10 countries around the world.
+
+
+This is a remote position. A remote position does not require job duties be performed within proximity of a Visa office location. Remote positions may be required to be present at a Visa office with scheduled notice. \#LI\-Remote
+
+ **Job Description**  
+
+As a Senior Product Manager on the Customer \& Developer Experience team, you will own the roadmap for critical platform capabilities that power client onboarding and shape how customers as well as internal users experience our platform every day. This role sits at the heart of the Developer Portal website and the Control Center web application, driving improvements that make our APIs easier to adopt, our systems more scalable and resilient, and our internal tools more powerful and intuitive.
+
+**What you will do:**
+
+
+You will partner closely with experts across the company to evaluate customer and business value, scope and plan new features, and lead them from concept through production. Working hands‑on with engineering, you’ll dive deep into technical details, guide trade‑offs and prioritization with strong product judgment, and ensure features are successfully delivered, operated, and evolved. Success in this role requires fluency in web applications, REST APIs, and internal system integrations, along with the ability to translate complex platform work into clear, outcome‑driven roadmaps that move the business forward.
+
+ **Qualifications**  
+
+* 5\+ years of product management experience owning software platform roadmaps, including web applications, REST APIs, and system integrations.
+* Excellent communication and teamwork skills, with the ability to articulate goals, requirements, and expectations to cross\-functional team members at all levels of the organization. Business proficiency in English required (C1 level).
+* Strong product management skills, with proven experience in discovery, customer and market research, feature scoping, roadmap ownership, and prioritization of complex feature sets.
+* Hands\-on and technically curious, with a willingness to dive into technical details, read API docs, experiment with endpoints, and collaborate closely with engineering.
+* Proven commitment to quality throughout the product life cycle, including non\-functional aspects such as integrity, resilience, and scalability.
+* Proficiency with product analytics to measure customer and business, validate decisions, and uncover meaningful opportunities for improvement.
+* Comfortable leading in Agile environments, with the ability to balance working independently and collaboratively as part of a team.
+* Experience in Fintech, Banking, Payments, or IT is a plus.
+* Passionate about building solutions that people love.
+
+  
+
+**Additional Information**  
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.

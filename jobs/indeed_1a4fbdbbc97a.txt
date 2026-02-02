@@ -1,0 +1,121 @@
+Senior Web Developer - Figma & Webflow Expertise - Adoreal
+
+### **Who We Are**
+
+
+We are a fast\-growing vertical SaaS company that leverages innovation and disruptive technologies to improve consumer experiences, outcomes, and predictability in elective medicine. Our team thrives on challenges, embraces change, and is dedicated to transforming our industry.
+
+
+Adoreal is scaling rapidly, and this role is designed to support growth. As we automate more of our content production, scheduling, and reporting processes, we are looking for a strategic implementor who can take on high\-impact work in sales and marketing automation
+
+### **Who We're Looking For**
+
+### **About the Role**
+
+
+We're seeking an experienced Senior Web Developer to lead our web development team as we scale rapidly. You'll be responsible for managing a globally\-dispersed team of junior developers while driving strategy, execution, and technical excellence across all web properties.
+
+### **Required Qualifications**
+
+**Technical Expertise:**
+
+* Expert\-level proficiency in Webflow development and administration
+* Extensive experience with complex website migrations (platform migrations, domain transfers, content restructuring)
+* Strong command of web design principles, UX best practices, and SEO fundamentals
+* Proven ability to build and implement automations (Zapier, Make, custom scripts, API integrations)
+* Proficiency in HTML, CSS, JavaScript, and responsive design
+* Understanding of web performance optimization and analytics
+
+**Leadership \& Management:**
+
+* 5\+ years of web development experience with 2\+ years in a management role
+* Demonstrated success leading and mentoring junior developers
+* Experience managing remote, globally\-dispersed teams across time zones
+* Strong project management skills with ability to balance multiple priorities
+* Excellent communication skills for both technical and non\-technical stakeholders
+
+**Startup Experience:**
+
+* Comfort working in fast\-paced, ambiguous environments
+* Ability to move quickly without sacrificing quality
+* Experience scaling web infrastructure and processes
+
+### **Day\-to\-Day Responsibilities**
+
+**Strategy \& Planning:**
+
+* Define web development roadmap aligned with business objectives
+* Evaluate new tools, platforms, and technologies
+* Identify automation opportunities to improve efficiency
+* Develop and maintain web standards and best practices
+
+**Execution \& Development:**
+
+* Build and maintain Webflow sites with pixel\-perfect precision
+* Execute complex website migrations with minimal downtime
+* Create and deploy automations to streamline workflows
+* Ensure site performance, SEO optimization, and accessibility standards
+* Troubleshoot technical issues and implement solutions
+
+**Team Leadership:**
+
+* Delegate and assign tasks to junior developers based on skill level
+* Provide code reviews, feedback, and mentorship
+* Conduct regular 1:1s and team meetings across time zones
+* Foster a collaborative, learning\-oriented team culture
+* Remove blockers and provide technical guidance
+
+**Project Management:**
+
+* Manage multiple concurrent projects from kickoff to launch
+* Create detailed project plans with timelines and milestones
+* Coordinate with cross\-functional teams (design, marketing, product)
+* Track progress, identify risks, and adjust priorities as needed
+* Communicate status updates to leadership and stakeholders
+
+**Quality Assurance:**
+
+* Optimize and enforce QA processes
+* Review all work before deployment
+* Monitor site performance and user experience metrics
+
+**Requirements**
+
+* At least 5 years of experience with Figma and Webflow, with a portfolio showcasing your work.
+* Understanding of UX/UI principles and a strong desire to learn and grow in this field.
+* Familiarity with responsive design practices and web development fundamentals.
+* Knowledge of SEO best practices and how they apply to web design, with experience resolving SEO\-related issues identified by automated website auditing
+* Strong problem\-solving skills and the ability to troubleshoot and resolve technical issues.
+* Advanced level (C1\) communication skills, with fluency in English.
+* Ability to work well in a collaborative team environment and align with Adoreal’s values of teamwork, punctuality, and aesthetic excellence.
+
+**Benefits**
+
+### **Why Adoreal?**
+
+
+Joining Adoreal means becoming part of a high\-performing, ambitious team that works hard, achieves extraordinary results, and enjoys the rewards that follow. Every employee receives equity, aligning us all in our shared success. Promotions and growth opportunities are limitless, driven only by your performance and dedication to our core principles:
+
+  
+
+* We do what is best for the company, not what is best for individuals of the company—we take pride in our work, but not in pride itself—the success of Adoreal is more important than our egos.
+* We always share relevant information and admit our mistakes freely and openly (even when it is worrisome or uncomfortable to do so). Candid communication and a solution\-oriented mindset is rewarded.
+* We innovate by finding the right problems, then solving them. We thrive on change that minimizes complexity and improves situations for our stakeholders.
+* We incentivize efficient results \& people over process and focus only on the work that creates the most value for our stakeholders.
+* We are quietly confident and openly humble, being tenacious in our quest to perform and inspire others with our thirst for excellence.
+* We do not bow up and knock down—we care about our teammates and treat all of them with respect, regardless of their level within the company.
+* We are steadfast in our pursuit to better our company, our colleagues, and ourselves. When we hire, we only hire people who bleed our principles and who will hopefully be our replacement one day.
+
+
+At this time, Adoreal is not offering visa sponsorship for this position. Candidates must have current and valid authorization to work in the country where they are applying. We comply with all applicable employment and immigration laws, including U.S. regulations, and encourage applicants to verify their work authorization status before applying.
+  
+
+  
+
+Adoreal is an equal opportunity employer committed to fostering a diverse, inclusive, and fair workplace. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, veteran status, or any other protected characteristic under applicable U.S. law (EEOC) or local employment regulations where we operate. We encourage applications from candidates of all backgrounds.  
+
+Accommodations for disabilities are available upon request throughout the recruitment process.  
+
+  
+
+\*We are not working with search firms for this role, thank you\*

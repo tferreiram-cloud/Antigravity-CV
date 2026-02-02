@@ -1,0 +1,44 @@
+WARNING: The directory '/Users/thi/Library/Caches/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Collecting python-jobspy
+  Downloading python_jobspy-1.1.82-py3-none-any.whl.metadata (10 kB)
+Collecting NUMPY==1.26.3 (from python-jobspy)
+  Downloading numpy-1.26.3.tar.gz (15.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.7/15.7 MB 81.9 MB/s  0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  × Preparing metadata (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [12 lines of output]
+      + /Users/thi/Documents/Dev/Antigravity/CV-Project/.venv/bin/python3.14 /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0/vendored-meson/meson/meson.py setup /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0 /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0/.mesonpy-tkjip006/build -Dbuildtype=release -Db_ndebug=if-release -Db_vscrt=md --native-file=/private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0/.mesonpy-tkjip006/build/meson-python-native-file.ini
+      The Meson build system
+      Version: 1.2.99
+      Source dir: /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0
+      Build dir: /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0/.mesonpy-tkjip006/build
+      Build type: native build
+      Project name: NumPy
+      Project version: 1.26.3
+      
+      ../../meson.build:1:0: ERROR: Compiler cc cannot compile programs.
+      
+      A full log can be found at /private/tmp/pip-install-cyrqn609/numpy_c5b3e659ed4d47ca8d6596b5688ef7c0/.mesonpy-tkjip006/build/meson-logs/meson-log.txt
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 25.3 -> 26.0
+[notice] To update, run: pip install --upgrade pip
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> NUMPY
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.

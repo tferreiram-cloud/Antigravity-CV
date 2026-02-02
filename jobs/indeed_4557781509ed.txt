@@ -1,0 +1,64 @@
+Front End Engineer (Angular) - Zaelab
+
+The Front End Engineer reporting to the Manager, Front End Engineering plays a key role in Zaelab's Engineering and Delivery team, building high\-quality, scalable e\-commerce solutions for a diverse set of clients. You’ll partner closely with designers, backend engineers, and delivery teams to translate business and user needs into thoughtful, performant front end experiences.
+
+
+Success in this role means taking ownership of your work, writing clean and maintainable code, and collaborating effectively in a client\-focused, delivery\-driven environment.
+
+**Key Responsibilities**
+
+* Build, enhance, and maintain Angular applications for client\-facing e\-commerce solutions
+* Translate UI/UX designs and wireframes into responsive, accessible, production\-ready interfaces
+* Collaborate with backend engineers to integrate REST APIs (and occasionally GraphQL)
+* Participate in code reviews, contributing to shared standards and continuous improvement
+* Write and maintain unit tests, supporting a strong culture of quality and reliability
+* Actively participate in Agile ceremonies (planning, standups, retrospectives)
+* Mentor junior engineers and contribute to team knowledge\-sharing
+* Proactively identify opportunities to improve performance, accessibility, and developer experience
+
+
+Stay current with front end technologies and best practices, bringing recommendations to the team
+
+ **Requirements**
+
+* 3\+ years of hands\-on experience with Angular development
+* Proficiency in TypeScript and modern JavaScript
+* Solid understanding of HTML, CSS, and SCSS, including responsive design principles
+* Experience integrating front end applications with REST APIs (GraphQL a plus)
+* Familiarity with state management patterns and tools (NgRx or similar)
+* Experience with front end testing frameworks (Jasmine, Karma, Jest, etc.)
+* Working knowledge of Git\-based workflows and CI/CD pipelines
+* Experience working with e\-commerce platforms (Shopify, BigCommerce, commercetools, or similar)
+* Strong problem\-solving skills and attention to detail
+* Clear communication skills and comfort working in a collaborative, cross\-functional team  
+
+Bachelor’s degree in Computer Science or related field, or equivalent practical experience
+
+**Nice to Have**
+
+* Experience with additional front end frameworks (React, Vue)
+* Exposure to backend or full\-stack development (Node.js, Java, etc.)  
+
+Knowledge of web accessibility standards (WCAG) and inclusive design practices
+* Experience with front end performance optimization and tooling
+
+**Benefits**
+
+
+Why you’ll love working here:
+
+* Unlimited Vacation/PTO
+* Full Health Benefits and 401k Fixed Percentage Plan (USA only) RRSP (Canada)
+* Fully remote and distributed teams
+* Paid Parental Leave
+* Ongoing training and education opportunities
+* 0% Bureaucracy Culture \- Focus is on responsibilities, not title
+
+
+Like what you see but don’t meet every requirement? Apply anyways! Studies have shown that various groups (women and people of colour) are less likely to apply to jobs unless they meet every requirement. At Zaelab, we’re committed to building and fostering an inclusive accessible environment, where all employees feel valued, respected and supported. We are dedicated to creating a culture with a diversity of talented individuals who join, stay, and work in an environment that enables them to thrive.
+
+
+Zaelab is proud to be an equal\-opportunity employer. We are committed to providing accommodations. If you require accommodation, we will work with you to meet your needs. We use E\-Verify to confirm the identity and employment eligibility of all new USA hires.
+
+
+Please rest assured that we’ll treat any information you share with us with the utmost care, only use your information for recruitment purposes and will never sell it to other companies for marketing purposes. Please review our privacy policy for future information LINK As part of our hiring process, AI\-based tools are used to support the initial review of applications. Rest assured, our People Ops team carefully reviews all applications and makes the final decisions on candidate progression.

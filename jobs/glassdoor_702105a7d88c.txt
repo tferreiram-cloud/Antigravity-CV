@@ -1,0 +1,54 @@
+Senior Product Manager - Cards Payments Optimization - dLocal
+
+Why should you join dLocal?  
+
+dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest\-growing, emerging markets.  
+
+By joining us you will be a part of an amazing global team that makes it all happen, in a flexible, remote\-first dynamic culture with travel, health and learning benefits, among others. Being a part of dLocal means working with 1000\+ teammates from 30\+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer\-centric, and if this sounds like you, we know you will thrive in our team. **About Dlocal**
+ Dlocal powers payments in emerging markets, helping global companies collect and send funds using local rails.  
+
+ We’re looking for a Senior Product Manager to lead Dlocal’s Card Payments Optimization strategy. Your mission: maximize approval rates and overall performance of our card payment flows by launching new features, leveraging network capabilities, and delivering innovative solutions that help our merchants convert more transactions.  
+
+This role is at the intersection of product innovation, data\-driven optimization, and deep card payments expertise. You’ll work with card networks, acquirers, and merchants to identify high\-impact improvements — from implementing network tokenization to optimizing retry logic — and bring them to market at scale.  
+
+
+### **What will I be doing?**
+
+* Own the vision, strategy, and roadmap for card payments optimization, with a focus on increasing approval rates and transaction success.
+* Launch and scale high\-impact card payment features such as network tokenization, account updater, optimized routing, and advanced retry logic.
+* Partner with card networks (Visa, Mastercard, etc.) and acquirers to leverage the latest capabilities and best practices.
+* Collaborate with engineering, data, and merchant\-facing teams to design and implement optimizations.
+* Conduct in\-depth analysis of approval and decline patterns to uncover opportunities for improvement.
+* Work closely with merchants to align on optimization strategies and tailor solutions to their markets and business models.
+* Design experiments, A/B tests, and rollout plans to validate performance improvements before scaling.
+* Monitor competitive trends and regulatory changes impacting card payments in emerging markets.
+
+### **What skills do I need?**
+
+* 7\+ years of product management experience in payments, fintech, or related fields.
+* Deep understanding of card payment flows, including authorization, settlement, and network capabilities.
+* Track record of delivering measurable improvements in card payment performance.
+* Strong analytical skills with experience using data tools (e.g., SQL, BI platforms) to drive decisions.
+* Excellent relationship management skills with external partners such as card networks and acquirers.
+* Proven ability to prioritize and deliver high\-impact product changes in fast\-paced environments.
+
+
+What do we offer?  
+
+Besides the tailored benefits we have for each country, dLocal will help you thrive and go that extra mile by offering you:* Flexibility: we have flexible schedules and we are driven by performance.
+* Fintech industry: work in a dynamic and ever\-evolving environment, with plenty to build and boost your creativity.
+
+
+\- Referral bonus program: our internal talents are the best recruiters \- refer someone ideal for a role and get rewarded.* Learning \& development: get access to a Premium Coursera subscription.
+* Language classes: we provide free English, Spanish, or Portuguese classes.
+* Social budget: you'll get a monthly budget to chill out with your team (in person or remotely) and deepen your connections!
+* dLocal Houses: want to rent a house to spend one week anywhere in the world coworking with your team? We’ve got your back!
+
+  
+
+What happens after you apply?
+Our Talent Acquisition team is invested in creating the best candidate experience possible, so don’t worry, you will definitely hear from us. We will review your CV and keep you posted by email at every step of the process!  
+
+Also, you can check out our webpage, Linkedin, Instagram, and Youtube for more about dLocal!
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

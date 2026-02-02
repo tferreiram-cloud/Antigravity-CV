@@ -1,0 +1,148 @@
+Vindi | Desenvolvedor(a) Ruby on Rails Sênior | Remoto - LWSA
+
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para **pagamentos avulsos** ou **recorrentes** e a possibilidade de ingressar no mercado de ***embedded finance***, construindo **soluções de crédito sob medida** para empresas financeiras e não financeiras.
+
+  
+
+Nossos **anos de história** carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a **excelência em serviços financeiros**, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+
+  
+
+Na Vindi, **cada colaborador é parte fundamental do nosso sucesso.** Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: **ser a referência em serviços financeiros no Brasil.**
+
+ **Junte\-se a nós e faça parte dessa jornada de transformação.** Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar\-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+
+ **CONHEÇA A OPORTUNIDADE**
+
+  
+
+O time de **xxxxx** é responsável pela **(****ATENÇÃO GESTOR: INSERIR informações sobre a área)**
+
+
+Entre as tarefas realizadas diariamente, podemos destacar **(****ATENÇÃO GESTOR: INSERIR** **as tarefas realizadas diariamente de forma resumida.**)
+
+
+Para esta oportunidade, precisamos de pessoas que **(****ATENÇÃO GESTOR: INSERIR****as competência técnicas e comportamentais de forma resumida.**)  
+
+
+
+  
+
+  
+
+**Responsabilidades e atribuições** **Como será seu dia a dia:**
+
+* **﻿**Você estará inserido em um time multidisciplinar formado por desenvolvedores, Analista de Qualidade, Product Manager, SRE e segurança, desenvolvendo soluções que encantem nossos clientes;
+* Participar de cerimônias ágeis junto ao time (acompanhamento, alinhamento, remoção de impedimento e planejamento;
+* Participar da construção e configurações de ambientes, pipelines e migrações;
+* Acompanhar as métricas, interpretando\-as para acompanhar a saúde do time, celeridade dos objetivos, propondo melhorias em possíveis pontos a melhorar no decorrer do processo;
+* Participação da construção e manutenção dos objetivos da squad;
+* Codificar features, atuar em correções de bugs e em melhorias dos nossos produtos;
+* Ensinar e aprender constantemente em um ambiente colaborativo.
+
+  
+
+**Requisitos e qualificações** **E para tirar de letra, você precisará:**
+
+* **﻿**Sólida experiência com Ruby e Ruby on Rails (6/7\) em produção
+* Forte base em OO, SOLID, boas práticas e design de APIs
+* Testes automatizados (RSpec/Minitest), TDD/BDD e cobertura efetiva
+* Banco de dados (PostgreSQL/MySQL): modelagem, índices, otimização de queries e migrations seguras
+* Processamento assíncrono com Sidekiq/Redis e arquitetura orientada a eventos quando necessário
+* Construção e versionamento de APIs REST/GraphQL, idempotência, autenticação (OAuth/JWT), webhooks
+* Observabilidade: logs estruturados, métricas e tracing (New Relic/Datadog/Prometheus)
+* Segurança aplicada: OWASP, proteção a N\+1, rate limiting, criptografia, LGPD/PCI\-DSS (nível prático)
+* CI/CD (GitLab/GitHub Actions), revisão de código, code quality e feature flags
+* Experiência com Docker e cloud (preferência AWS) seguindo 12\-factor
+* Colaboração: mentoria de devs, comunicação clara e documentação objetiva
+
+ **E se tiver isso também, melhor ainda:**
+
+* **﻿**Vivência em fintechs/billing: recorrência, gateways de pagamento, conciliação, notas fiscais
+* Event\-driven (Kafka/Racecar), CQRS/Sagas e mensageria em alto volume
+* Experiência com performance em Rails (eager loading, evitar N\+1, caching, background jobs)
+* Infra como código (Terraform), Kubernetes/Helm e boas práticas de SRE
+* Testes de contrato (Pact), verificação de assinatura de webhooks e idempotency keys
+* Hardening e compliance: PCI, tokenização, Vault/KMS e gestão de segredos
+* Experiência como Tech Lead/Sr, desenho de arquitetura e tomada de decisão técnica
+* Noções de frontend moderno (React/Vue) e TypeScript para integração full\-stack
+* Contribuições open source, talks/artigos técnicos e espírito de comunidade
+
+  
+
+**Informações adicionais** **O que nós oferecemos:**
+
+
+Convênio médico;
+
+
+Convênio odontológico;
+
+
+Vale\-refeição ou vale\-alimentação;
+
+
+Auxílio\-creche;
+
+
+Vale transporte;
+
+
+Programa de participação de lucros\-PPR;
+
+
+Day Off no mês de aniversário;
+
+
+Seguro de vida;
+
+
+Wellhub;
+
+
+Férias\&Co (benefício de viagens);
+
+
+Licença maternidade de 6 meses e paternidade de 20 dias;
+
+
+Horário flexível;
+
+
+\#Secuida \- nosso Programa de Qualidade de Vida;
+
+
+Parcerias com diversos estabelecimentos e instituições da área da educação, saúde, lazer, entretenimento, entre outros.
+
+ **Onde estamos:**
+
+
+Avenida Alcides Lajes Magalhaes 305, Bairro Jardim Acapulco \| 17\.525\-181
+
+ **Importante ressaltar:**
+
+
+Essa e todas as vagas abertas da companhia LWSA são elegíveis para todas as pessoas, independente de gênero, etnia, orientação sexual, acessibilidade e/ou condição social.
+
+
+Ressaltamos que nossas vagas estão abertas para todas as pessoas com deficiência (PcDs).
+
+  
+
+Sabia que a LWSA é um ecossistema de soluções digitais formado por diversas empresas? Pois é, e todas elas compartilham de um único objetivo: **transformar negócios para crescerem e prosperarem por meio da tecnologia**.
+
+  
+
+Nosso time é reconhecido pela **paixão, criatividade, persistência e colaboração**. E assim como as pessoas que constroem suas carreiras por aqui, cada uma das nossas marcas possui seu próprio jeito de ser, porém se assemelham na vontade de evoluir e entregar sempre o melhor.
+
+ **A LWSA tem um lugar que pode ser a sua cara!**
+
+
+Aqui, você poderá construir sua carreira em um ambiente de **autonomia, respeito e diversidade**, em uma Cia. que busca desenvolver seus profissionais para continuar inovando e criando as soluções do futuro.
+
+  
+
+E aí, bora fazer parte desse ecossistema e descobrir todas as possibilidades que temos para a sua carreira?
+
+
+Sentir que deu um “match” com o nosso perfil e compartilhar seu currículo por aqui, é o primeiro passo para vir fazer do nosso time!

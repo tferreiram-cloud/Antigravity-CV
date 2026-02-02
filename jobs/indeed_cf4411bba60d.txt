@@ -1,0 +1,57 @@
+Full Stack Engineer ID48139 - AgileEngine
+
+**About the role**
+
+As a Tech Lead Full Stack Engineer, you will shape the technical direction of a consumer\-facing platform, ensuring it scales reliably as the product and community grow. This role combines hands\-on development with technical leadership, influencing architecture, quality, and cross\-functional collaboration. You’ll own critical systems, mentor a growing team, and modernize a complex codebase. It’s a high\-impact opportunity in a fast\-paced, product\-led environment.
+
+**What you will do**
+
+* Architect and code robust, scalable features across frontend and backend;
+* Work deeply in an existing web application codebase, enhancing core modules and integrating with a graph database;
+* Implement state management with Redux and design performant React components;
+* Manage a small but growing team of developers;
+* Divide tasks and assign them to individuals;
+* Review code;
+* Collaborate closely with product, design, and engineering teams by communicating progress and blockers early and often;
+* Maintain high standards for documentation, testing, and code reviews;
+* Architect solutions that handle high throughput while maintaining low latency;
+* Lead technical initiatives to reduce manual operations and improve system reliability.
+
+**Must haves**
+
+* **4\+ years** of full\-stack development experience;
+* **2\+ years** of team lead or management experience;
+* Proven track record of mentoring other engineers and driving technical initiatives;
+* Experience with **graph databases** (Neptune with Gremlin preferred);
+* Experience with web and mobile application technologies including **HTML/CSS**, **React**, **React Native**, **TypeScript**, **Tailwind**, **Redux**, **Node.js**, and **Next.js**;
+* Experience using **Git** and **GitHub**;
+* Proven ability to navigate and improve large, production\-scale codebases;
+* Excellent communication and documentation skills in a fast\-moving team environment;
+* Strong track record of delivering solutions with high throughput and low latency requirements;
+* Upper\-intermediate English level.
+
+**Nice to haves**
+
+* Familiarity with cloud deployments (**AWS**) and CI/CD pipelines;
+* Experience optimizing large\-scale frontends for performance and accessibility;
+* Experience with AI frameworks or SDKs;
+* Start\-up mindset and comfort with trying new approaches and tackling new challenges.
+
+**Important:** *after confirming your application on this platform, you’ll receive an email with the next step: completing your application on our internal site, LaunchPod. So keep an eye on your inbox and don’t miss this step — without it, the process can’t move forward.*
+
+**About us**
+
+AgileEngine is an Inc. 5000 company that creates award\-winning software for Fortune 500 brands and trailblazing startups across 17\+ industries. We rank among the leaders in areas like application development and AI/ML, and our people\-first culture has earned us multiple Best Place to Work awards.
+
+If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!
+
+**Perks and benefits**
+
+* **Professional growth:** Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps.
+* **Competitive compensation:** We match your ever\-growing skills, talent, and contributions with competitive USD\-based compensation and budgets for education, fitness, and team activities.
+* **A selection of exciting projects:** Join projects with modern solutions development and top\-tier clients that include Fortune 500 enterprises and leading product brands.
+* **Flextime:** Tailor your schedule for an optimal work\-life balance, by having the options of working from home and going to the office, whatever makes you the happiest and most productive.
+
+Job Type: Full\-time
+
+Work Location: Remote

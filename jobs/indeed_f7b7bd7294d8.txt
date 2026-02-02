@@ -1,0 +1,61 @@
+Delivery Manager - Quartile
+
+**WHO WE ARE:**
+
+
+Quartile, the world's largest retail media optimization platform, is a trusted partner for multichannel e\-commerce success. Through unmatched expertise and patented AI technology, we fuel growth for 5,300\+ brands and sellers worldwide and manage an annual ad spend exceeding $2 billion. The award\-winning platform covers major marketplaces and ad channels for optimal reach. The result is unprecedented granularity, smarter budgeting, and bespoke solutions for retailers.
+
+
+Quartile is proud to be an equal opportunity employer with employees stemming from a wide range of backgrounds and experiences. As a business, we value the enrichment that diversity brings to our organization and are committed to a culture that creates a sense of inclusion and belonging. We welcome new perspectives and affirm that all employment decisions are made without regard to race, color, ancestry, religion, national origin, age, familial or marital status, sex, sexual orientation, pregnancy, gender identity or expression, disability, genetic information, veteran status, or any other classification protected by federal, state, or local law.
+
+ **OVERVIEW:**
+
+
+We are looking for a **Delivery Manager** to join our Interface team and act as a central execution and coordination hub across multiple initiatives and stakeholders.
+
+
+This role is delivery\-focused, highly operational, and cross\-functional. You will not own product strategy, but you will play a key role in ensuring initiatives move forward smoothly, scopes and timelines are respected, and teams stay aligned in a fast\-paced, high\-demand environment.
+
+**REQUIREMENTS:**
+
+* 5\+ years of experience in roles such as: Delivery Manager, Project Manager, Scrum Master, Business Analyst, Systems Analyst
+* Experience working in cross\-functional tech teams
+* Previous technical exposure (e.g., systems analysis, development, or close engineering work) is a strong plus
+* Comfortable working across multiple initiatives simultaneously
+* Jira expertise is essential (ability to structure workflows, stories, epics, queries, and reports)
+* Solid understanding of Agile methodologies (Scrum, Kanban)
+* Strong experience with delivery tracking, execution, and reporting
+* Excellent written and verbal communication
+* Fluent English (you’ll lead and participate in international meetings)
+* Strong organizational and prioritization skills
+
+
+….. If you reached this point, we hope you're feeling excited about the job description. We're eager to meet people that believe in Quartile's mission and can contribute to our team in a variety of ways. Feel welcome to apply!
+
+**PREFERRED QUALIFICATIONS (Optional):**
+
+* Experience with AI tools in daily workflows (e.g., Copilot, Cursor, similar)
+* Familiarity with audit\-related reporting or time tracking controls
+* Experience working with external vendors or partners
+
+**WHAT YOU’LL DO:**
+
+* Ensure product scopes, timelines, and delivery commitments are met
+* Identify, anticipate, and remove impediments that may impact delivery
+* Own delivery execution across multiple initiatives, ensuring things are moving forward
+* Track and communicate status, risks, and dependencies clearly to stakeholders
+* Be responsible for documentation and organization of initiatives, user stories, tasks and workflows in Jira
+* Maintain accurate and up\-to\-date documentation of systems, services, and processes in Confluence
+* Collaborate closely with Design, Engineering, and QA to deliver high\-quality solutions
+* Follow initiatives end\-to\-end, from early discussions through launch, leading execution when needed
+* Gather, clarify, and translate business and stakeholder requirements into delivery\-ready scopes
+* Assess feasibility and flag risks early to leadership
+* Ensure consistency, usability, and accessibility across components during delivery
+* Communicate the product vision and roadmap for alignment purposes (without owning product strategy)
+* Support and follow related projects, assisting team members when priorities overlap
+* Support operational controls such as Jira hygiene, time tracking consistency, reporting for audits and leadership visibility
+* Act as a key interface between engineering teams, PMs, Directors, external partners and vendors
+
+  
+
+This is a PJ contract based out of Brazil.

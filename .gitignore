@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Antigravity Specific - SENSITIVE DATA
+output/
+output_v83/
+master_profile*.json
+preferences.json
+debug.log
+error.log
+
+# Allow templates (if we create them)
+!master_profile_template.json
+
+# PDF/Doc artifacts
+*.pdf
+*.docx

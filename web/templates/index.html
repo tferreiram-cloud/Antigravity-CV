@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigravity Tailor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+
+<body>
+    <div class="app">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <div class="logo-icon">◉</div>
+                <span class="logo-text">Antigravity</span>
+            </div>
+
+            <nav class="nav">
+                <div class="nav-section">
+                    <span class="nav-section-title">SCRAPER</span>
+                    <a href="#" class="nav-item active" data-view="scraper">
+                        <span class="nav-icon">🔎</span>
+                        <span>Auto Scraper</span>
+                    </a>
+                    <a href="#" class="nav-item" data-view="jobs">
+                        <span class="nav-icon">📋</span>
+                        <span>Vagas Salvas</span>
+                        <span class="nav-badge" id="jobs-count">0</span>
+                    </a>
+                </div>
+
+                <div class="nav-section">
+                    <span class="nav-section-title">TAILOR</span>
+                    <a href="#" class="nav-item" data-step="1">
+                        <span class="nav-icon">📝</span>
+                        <span>Input</span>
+                    </a>
+                    <a href="#" class="nav-item" data-step="2">
+                        <span class="nav-icon">🔍</span>
+                        <span>Análise</span>
+                    </a>
+                    <a href="#" class="nav-item" data-step="3">
+                        <span class="nav-icon">📊</span>
+                        <span>Match</span>
+                    </a>
+                    <a href="#" class="nav-item" data-step="4">
+                        <span class="nav-icon">👁️</span>
+                        <span>Preview</span>
+                    </a>
+                    <a href="#" class="nav-item" data-step="5">
+                        <span class="nav-icon">📄</span>
+                        <span>Output</span>
+                    </a>
+                </div>
+
+                <div class="nav-section">
+                    <span class="nav-section-title">DATABASE</span>
+                    <a href="#" class="nav-item" data-view="profile">
+                        <span class="nav-icon">👤</span>
+                        <span>Master CV</span>
+                    </a>
+                </div>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="version">Tailor v1.0</div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main"
+            style="background-image: url('/static/hero-bg.png'); background-size: cover; background-position: center; background-attachment: fixed;">
+
+            <!-- Hero Section -->
+            <div class="hero-section"
+                style="padding: 40px 0 32px 0; margin-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        <h1
+                            style="font-family: 'Outfit', sans-serif; font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #f4f4f5 0%, #a1a1aa 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 8px;">
+                            Antigravity Tailor</h1>
+                        <p style="color: #a0a0b0; font-size: 18px;">Seu pipeline de currículos taylor-made com IA
+                            Generativa.</p>
+                    </div>
+                    <div style="display: flex; gap: 24px;">
+                        <div id="card-cvs-generated"
+                            style="text-align: center; padding: 16px 24px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; backdrop-filter: blur(10px); cursor: pointer;">
+                            <div style="font-size: 28px; font-weight: 700; color: #10b981;" id="stat-jobs">0</div>
+                            <div
+                                style="font-size: 12px; color: #606070; text-transform: uppercase; letter-spacing: 1px;">
+                                CVs Gerados</div>
+                        </div>
+                        <div id="card-match-avg"
+                            style="text-align: center; padding: 16px 24px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; backdrop-filter: blur(10px); cursor: pointer;">
+                            <div style="font-size: 28px; font-weight: 700; color: #6366f1;" id="stat-match">0%</div>
+                            <div
+                                style="font-size: 12px; color: #606070; text-transform: uppercase; letter-spacing: 1px;">
+                                Match Médio</div>
+                        </div>
+                        <div id="card-jobs-pipeline"
+                            style="text-align: center; padding: 16px 24px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; backdrop-filter: blur(10px); cursor: pointer;">
+                            <div style="font-size: 28px; font-weight: 700; color: #f59e0b;" id="stat-pipeline">0</div>
+                            <div
+                                style="font-size: 12px; color: #606070; text-transform: uppercase; letter-spacing: 1px;">
+                                Vagas Pipeline</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Scraper View -->
+            <section class="step active" id="view-scraper">
+                <div class="step-header">
+                    <h1>Auto Scraper</h1>
+                    <p class="subtitle">Busca automatizada de vagas em múltiplas fontes</p>
+                </div>
+
+                <div class="input-container">
+                    <div class="form-group">
+                        <label>Termo de Busca</label>
+                        <input type="text" id="scraper-query" placeholder="Ex: Product Manager AI, Martech, Growth..."
+                            value="Product Manager AI">
+                    </div>
+                    <div class="form-group">
+                        <label>Empresas Gupy (Slugs separadas por vírgula)</label>
+                        <input type="text" id="scraper-companies" placeholder="Ex: ifood, nubank, mercadolivre">
+                    </div>
+
+                    <div class="options-row">
+                        <div class="option-group">
+                            <label>Agendamento Diário (Cron)</label>
+                            <div class="toggle-group">
+                                <button class="toggle active" id="btn-cron-off">OFF</button>
+                                <button class="toggle" id="btn-cron-on">ON (09:00 AM)</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-actions">
+                    <button class="btn btn-primary" id="btn-run-scraper">
+                        <span>Iniciar Busca Agora</span>
+                        <span class="btn-icon">🔎</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Saved Jobs View (Kanban) -->
+            <section class="step" id="view-jobs">
+                <div class="step-header">
+                    <h1>Kanban Estratégico</h1>
+                    <p class="subtitle">Gestão proativa do GTM de carreira</p>
+                </div>
+
+                <div class="kanban">
+                    <div class="kanban-col" id="col-todo">
+                        <div class="kanban-col-header">
+                            <h3>Vagas Salvas</h3>
+                            <span class="count">0</span>
+                        </div>
+                        <div class="kanban-items" id="list-todo"></div>
+                    </div>
+
+                    <div class="kanban-col" id="col-strategy">
+                        <div class="kanban-col-header">
+                            <h3>Estratégia</h3>
+                            <span class="count">0</span>
+                        </div>
+                        <div class="kanban-items" id="list-strategy"></div>
+                    </div>
+
+                    <div class="kanban-col" id="col-tailoring">
+                        <div class="kanban-col-header">
+                            <h3>Tailoring</h3>
+                            <span class="count">0</span>
+                        </div>
+                        <div class="kanban-items" id="list-tailoring"></div>
+                    </div>
+
+                    <div class="kanban-col" id="col-applied">
+                        <div class="kanban-col-header">
+                            <h3>Aplicadas</h3>
+                            <span class="count">0</span>
+                        </div>
+                        <div class="kanban-items" id="list-applied"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Step 1: Input -->
+            <section class="step" id="step-1">
+                <div class="step-header">
+                    <h1>Cole a vaga</h1>
+                    <p class="subtitle">URL ou texto completo da descrição</p>
+                </div>
+
+                <div class="input-container">
+                    <div class="input-tabs">
+                        <button class="input-tab active" data-type="text">Texto</button>
+                        <button class="input-tab" data-type="url">URL</button>
+                    </div>
+
+                    <div class="input-content" id="input-text">
+                        <div class="form-group">
+                            <label>Título da vaga</label>
+                            <input type="text" id="job-title" placeholder="Ex: Product Marketing Manager">
+                        </div>
+                        <div class="form-group">
+                            <label>Empresa</label>
+                            <input type="text" id="job-company" placeholder="Ex: iFood, Nubank...">
+                        </div>
+                        <div class="form-group">
+                            <label>Descrição completa</label>
+                            <textarea id="job-description" rows="12"
+                                placeholder="Cole aqui toda a descrição da vaga, incluindo responsabilidades e requisitos..."></textarea>
+                        </div>
+                    </div>
+
+                    <div class="input-content hidden" id="input-url">
+                        <div class="form-group">
+                            <label>URL da vaga</label>
+                            <input type="url" id="job-url" placeholder="https://empresa.gupy.io/vaga/...">
+                        </div>
+                        <p class="hint">Suporta: LinkedIn, Gupy, Greenhouse, e outros</p>
+                    </div>
+
+                    <div class="options-row">
+                        <div class="option-group">
+                            <label>Idioma do CV</label>
+                            <div class="toggle-group">
+                                <button class="toggle active" data-lang="pt">PT-BR</button>
+                                <button class="toggle" data-lang="en">English</button>
+                            </div>
+                        </div>
+                        <div class="option-group">
+                            <label>Modo</label>
+                            <div class="toggle-group">
+                                <button class="toggle active" data-mode="senior">Senior</button>
+                                <button class="toggle" data-mode="junior">Junior</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-actions">
+                    <button class="btn btn-primary" id="btn-analyze">
+                        <span>Analisar Vaga</span>
+                        <span class="btn-icon">→</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Step 2: Validation -->
+            <section class="step" id="step-2">
+                <div class="step-header">
+                    <h1>Validação</h1>
+                    <p class="subtitle">Verificando se a vaga foi lida corretamente</p>
+                </div>
+
+                <div class="validation-card">
+                    <div class="validation-header">
+                        <div class="job-info">
+                            <h2 id="val-title">-</h2>
+                            <p id="val-company">-</p>
+                        </div>
+                        <div class="validation-status" id="val-status">
+                            <span class="status-icon">⏳</span>
+                        </div>
+                    </div>
+
+                    <div class="checklist" id="checklist">
+                        <div class="check-item" data-check="cargo">
+                            <span class="check-icon">○</span>
+                            <span>Cargo identificado</span>
+                        </div>
+                        <div class="check-item" data-check="empresa">
+                            <span class="check-icon">○</span>
+                            <span>Empresa identificada</span>
+                        </div>
+                        <div class="check-item" data-check="descricao">
+                            <span class="check-icon">○</span>
+                            <span>Descrição legível</span>
+                        </div>
+                        <div class="check-item" data-check="requisitos">
+                            <span class="check-icon">○</span>
+                            <span>Requisitos encontrados</span>
+                        </div>
+                        <div class="check-item" data-check="idioma">
+                            <span class="check-icon">○</span>
+                            <span>Idioma: <span id="val-lang">-</span></span>
+                        </div>
+                    </div>
+
+                    <div class="tags-section">
+                        <h3>Keywords detectadas</h3>
+                        <div class="tags" id="val-keywords"></div>
+                    </div>
+                </div>
+
+                <div class="step-actions">
+                    <button class="btn btn-secondary" id="btn-back-1">← Voltar</button>
+                    <button class="btn btn-primary" id="btn-match">
+                        <span>Calcular Match</span>
+                        <span class="btn-icon">→</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Step 3: Match -->
+            <section class="step" id="step-3">
+                <div class="step-header">
+                    <h1>Match Intelligence</h1>
+                    <p class="subtitle">Comparando requisitos com seu perfil</p>
+                </div>
+
+                <div class="match-container">
+                    <div class="match-score-card">
+                        <div class="score-circle" id="score-circle">
+                            <svg viewBox="0 0 100 100">
+                                <circle class="score-bg" cx="50" cy="50" r="45" />
+                                <circle class="score-fill" cx="50" cy="50" r="45" id="score-fill" />
+                            </svg>
+                            <div class="score-value" id="score-value">0%</div>
+                        </div>
+                        <div class="score-label" id="score-label">Calculando...</div>
+                        <button class="btn btn-warning btn-sm" id="btn-force-100" style="margin-top: 15px; width: 100%;"
+                            title="Reescreve experiências para incluir keywords da vaga">
+                            ⚡ Forçar 100%
+                        </button>
+                    </div>
+
+                    <div class="match-details">
+                        <div class="match-section">
+                            <h3>✅ Requisitos Cobertos</h3>
+                            <div class="tags tags-success" id="match-covered"></div>
+                        </div>
+                        <div class="match-section">
+                            <h3>⚠️ Não Cobertos</h3>
+                            <div class="tags tags-warning" id="match-missing"></div>
+                        </div>
+                    </div>
+
+                    <div class="experiences-preview">
+                        <h3>📋 Experiências Selecionadas</h3>
+                        <div class="exp-list" id="exp-list"></div>
+                    </div>
+                </div>
+
+                <div class="warnings" id="match-warnings"></div>
+
+                <div class="step-actions">
+                    <button class="btn btn-secondary" id="btn-back-2">← Voltar</button>
+
+                    <button class="btn btn-primary" id="btn-preview">
+                        <span>Ver Preview</span>
+                        <span class="btn-icon">→</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Step 4: Preview -->
+            <section class="step" id="step-4">
+                <div class="step-header">
+                    <h1>Preview</h1>
+                    <p class="subtitle">Revise antes de gerar o documento final</p>
+                </div>
+
+                <div class="preview-container">
+                    <div class="preview-controls">
+                        <div class="headline-selector">
+                            <label>Headline</label>
+                            <select id="headline-select"></select>
+                        </div>
+                        <div class="edit-mode-toggle">
+                            <label class="toggle-label">
+                                <input type="checkbox" id="edit-mode-toggle">
+                                <span class="toggle-text">✏️ Modo Edição</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="preview-card">
+                        <div class="preview-header">
+                            <h2 id="preview-name">Thiago Ferreira Moraes</h2>
+                            <p class="preview-headline" id="preview-headline">-</p>
+                        </div>
+                        <div class="preview-summary" id="preview-summary"></div>
+                        <div class="preview-experiences" id="preview-experiences"></div>
+                        <div class="preview-skills">
+                            <h4>Skills</h4>
+                            <div class="tags" id="preview-skills"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="step-actions">
+                    <button class="btn btn-secondary" id="btn-back-3">← Voltar</button>
+                    <button class="btn btn-primary" id="btn-generate">
+                        <span>Gerar CV</span>
+                        <span class="btn-icon">📄</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Step 5: Output -->
+            <section class="step" id="step-5">
+                <div class="step-header">
+                    <h1>Pronto! 🎉</h1>
+                    <p class="subtitle">Seu CV foi gerado com sucesso</p>
+                </div>
+
+                <div class="output-container">
+                    <div class="output-card">
+                        <div class="output-icon">📄</div>
+                        <h3 id="output-filename">cv_empresa_123456.pdf</h3>
+                        <p class="output-meta">Gerado agora</p>
+
+                        <div class="output-actions">
+                            <a href="#" class="btn btn-primary" id="btn-download">
+                                <span>Download PDF</span>
+                            </a>
+                            <button class="btn btn-secondary" id="btn-new">
+                                Nova Vaga
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="output-preview" id="output-preview"></div>
+                </div>
+
+                <div class="ats-report-card" id="ats-report"
+                    style="display: none; margin-top: 24px; background: rgba(255,255,255,0.03); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
+                    <h3>🤖 ATS Simulate Check</h3>
+                    <div style="display: flex; gap: 20px; margin-top: 15px;">
+                        <div style="flex: 1;">
+                            <h4 style="font-size: 14px; color: #a0a0b0; margin-bottom: 8px;">Parsing Score</h4>
+                            <div class="score-value" id="ats-score" style="font-size: 24px;">-</div>
+                        </div>
+                        <div style="flex: 1;">
+                            <h4 style="font-size: 14px; color: #a0a0b0; margin-bottom: 8px;">Keywords Found</h4>
+                            <div id="ats-keywords"></div>
+                        </div>
+                    </div>
+                    <div id="ats-warnings" style="margin-top: 15px; font-size: 13px; color: #fbbf24;"></div>
+                </div>
+            </section>
+
+            <!-- Profile Editor View -->
+            <section class="step" id="view-profile">
+                <div class="step-header">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-end;">
+                        <div>
+                            <h1>Master CV Editor</h1>
+                            <p class="subtitle">Gerencie sua "Fonte da Verdade" e variantes de ataque</p>
+                        </div>
+                        <div class="step-actions" style="margin-bottom: 0;">
+                            <button class="btn btn-primary" id="btn-save-profile">
+                                <span>Salvar Alterações</span>
+                                <span class="btn-icon">💾</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="profile-editor-layout">
+                    <!-- Internal Profile Nav -->
+                    <div class="profile-nav">
+                        <button class="profile-nav-item active" data-section="candidato">👤 Dados Pessoais</button>
+                        <button class="profile-nav-item" data-section="headlines">🎯 Headlines</button>
+                        <button class="profile-nav-item" data-section="summaries">📝 Summaries</button>
+                        <button class="profile-nav-item" data-section="skills">🛠️ Skills</button>
+                        <button class="profile-nav-item" data-section="experiencias">💼 Experiências STAR</button>
+                        <button class="profile-nav-item" data-section="json">🔗 JSON Bruto</button>
+                    </div>
+
+                    <!-- Editor Content -->
+                    <div class="profile-content">
+                        <!-- Dynamic content will be injected here by app.js -->
+                        <div id="profile-editor-fields">
+                            <div class="loading-state">Carregando perfil...</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading">
+        <div class="loading-spinner"></div>
+        <p class="loading-text">Processando...</p>
+    </div>
+
+    <!-- Strategy Modal -->
+    <div class="modal" id="modal-strategy">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Relatório de Estratégia GTM</h2>
+                <button class="modal-close" id="btn-close-strategy">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="strategy-section">
+                    <h3>👻 Ghost Notes (Implícitos)</h3>
+                    <ul id="strat-ghost-notes"></ul>
+                </div>
+
+                <div class="strategy-section">
+                    <h3>⚠️ Relatório de Vulnerabilidade</h3>
+                    <div class="vulnerability-list" id="strat-vulnerabilities"></div>
+                </div>
+
+                <div class="strategy-section">
+                    <h3>🛡️ Protocolo Anti-overqualification</h3>
+                    <p id="strat-ao-status"></p>
+                    <div class="narrative-box">
+                        <label>Shift de Narrativa:</label>
+                        <p id="strat-narrative"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-reject-strategy">Recusar</button>
+                <button class="btn btn-primary" id="btn-approve-strategy">Aprovar Plano Tactical</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+
+</html>

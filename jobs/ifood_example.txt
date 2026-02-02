@@ -1,0 +1,35 @@
+GPM, IA Generativa - iFood
+
+Sobre o iFood:
+Somos a maior foodtech da América Latina e estamos revolucionando a forma como as pessoas pedem e recebem comida. 
+
+Sobre a vaga:
+Buscamos um(a) Group Product Manager para liderar nossa área de IA Generativa. Você será responsável por definir a visão de produto e roadmap para aplicações de LLMs e agentes de IA que impactam milhões de usuários.
+
+Responsabilidades:
+- Liderar squad de PMs focados em IA Generativa
+- Definir roadmap de produtos baseados em LLM para melhorar experiência do consumidor
+- Colaborar com times de ML Engineering e Data Science
+- Estabelecer métricas de sucesso e frameworks de experimentação para features de IA
+- Gerenciar stakeholders de C-level sobre estratégia de IA
+- Construir casos de uso de agentes autônomos para operações (logística, atendimento)
+- Garantir escalabilidade e eficiência de custo das soluções de IA
+
+Requisitos:
+- 8+ anos de experiência em Product Management
+- Experiência comprovada liderando produtos de IA/ML em produção
+- Conhecimento técnico de LLMs, RAG, Fine-tuning, Prompt Engineering
+- Capacidade de traduzir requisitos de negócio em especificações técnicas
+- Experiência com metodologias ágeis e gestão de backlog
+- Inglês fluente
+
+Diferenciais:
+- Experiência com Agentic AI / Autonomous Agents
+- Background técnico em engenharia de software ou dados
+- Conhecimento de ferramentas de orquestração (n8n, Langchain, etc.)
+- Experiência em marketplaces ou operações de alta escala
+
+Benefícios:
+- Trabalho híbrido (3x escritório em SP)
+- Stock options
+- Gympass, plano de saúde, VR

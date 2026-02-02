@@ -1,0 +1,465 @@
+{
+    "meta": {
+        "version": "9.0-EN-MASTER",
+        "last_updated": "2026-01-30",
+        "language": "en-US",
+        "architecture": "ATS-Optimized + STAR + Anti-Overqualification",
+        "source_of_truth": true
+    },
+    "candidate": {
+        "full_name": "Thiago Ferreira Moraes",
+        "location": {
+            "neighborhood": "Moema",
+            "city": "São Paulo",
+            "state": "SP",
+            "country": "Brazil",
+            "display": "Moema, São Paulo - Brazil"
+        },
+        "contact": {
+            "phone": "+55 11 97625-2380",
+            "email": "t.ferreira.m@gmail.com",
+            "linkedin": "linkedin.com/in/thiagomkt"
+        },
+        "languages": [
+            {
+                "language": "Portuguese",
+                "level": "Native"
+            },
+            {
+                "language": "English",
+                "level": "Fluent",
+                "context": "2+ years Toronto (TransPerfect)"
+            },
+            {
+                "language": "Spanish",
+                "level": "Advanced",
+                "context": "LATAM trainings"
+            }
+        ]
+    },
+    "headlines": {
+        "_ats_keywords": "Each headline optimized for ATS scrapers and LinkedIn search",
+        "martech_lead": "Marketing & Martech Lead | RevOps | Automation | HubSpot | Ex-Meta | 15+ years",
+        "gpm_ai": "Group Product Manager | Generative AI | LLM | Agentic AI | Ex-Meta | LATAM",
+        "product_manager": "Senior Product Manager | AI/ML | Go-to-Market | Ex-Meta | B2B SaaS",
+        "pmm": "Product Marketing Manager | GTM | Positioning | Partner Ecosystem | Ex-Meta | US$85M",
+        "growth_lead": "Growth Marketing Lead | Brandformance | CRO | Performance | Ex-Meta",
+        "growth_cro": "Growth & CRO | Conversion Optimization | A/B Testing | Funnel | Analytics",
+        "branding": "Brand Strategy | Neuromarketing | Positioning | Consumer Psychology | Ex-Meta",
+        "media_traffic": "Media Manager | Paid Traffic | Meta Ads | Google Ads | ROAS | Performance",
+        "revops": "RevOps | Sales & Marketing Automation | Pipeline | CRM | HubSpot | SQL | Analytics",
+        "content_strategy": "Content Strategy | Editorial | Influencer Marketing | Ex-Ambev",
+        "marketing_manager": "Marketing Manager | Branding | Digital | Automation | 15+ years experience",
+        "b2b_marketing": "B2B Marketing | Demand Generation | ABM | Pipeline | Inbound | Outbound",
+        "digital_transformation": "Digital Transformation | AI | Automation | Change Management | Process",
+        "ai_lead": "AI Operations | LLM | Intelligent Automation | n8n | Docker | Python",
+        "customer_success": "Customer Success | CX | Lifecycle Marketing | Retention | LTV | NPS"
+    },
+    "summaries": {
+        "_ats_keywords": "Keywords SOTA: GTM, RevOps, CRO, ABM, CAC, LTV, ROAS, Pipeline, Brandformance, Stakeholder Management",
+        "martech_lead": "Marketing & Martech Leader with 15+ years at Meta, Ambev, Dow. Expert in RevOps, marketing automation (HubSpot, n8n), and stack integration. Results: +25% revenue, -20% CAC. Keywords: RevOps, Marketing Automation, CRM, HubSpot, Analytics, Data-Driven.",
+        "gpm_ai": "Group Product Manager with 15+ years in high-complexity environments (Meta, Ambev, Dow). Transitioning to Generative AI and LLM product leadership. Building autonomous agents and automation with n8n, Docker, Python, SQL. Track record: C-level stakeholder management across LATAM. Edge: Neuroscience (Mackenzie) + hands-on Agentic AI.",
+        "product_manager": "Senior Product Manager with 15+ years bridging business strategy and technical execution. Experience at Meta, Ambev, Dow. Hands-on with AI infrastructure: n8n, Docker, Python, SQL. Strong in Go-to-Market, stakeholder management, and data-driven decisions. Keywords: Product Discovery, Roadmap, Agile, Backlog, OKRs.",
+        "pmm": "Product Marketing Manager with proven GTM expertise at Meta. Led multi-channel campaigns driving US$85M revenue impact across LATAM and North America. Expert in partner enablement, product positioning, and cross-functional coordination. Created certification programs scaled globally. Keywords: GTM, Messaging, Competitive Analysis, Sales Enablement.",
+        "growth_lead": "Growth Marketing Leader with 15+ years driving data-driven scale at Meta, Ambev, and enterprise clients. Specialist in Brandformance (brand + performance), funnel optimization, and AI-powered growth strategies. Track record: +30% YoY growth, +25% conversion. Keywords: Growth Hacking, Funnel, Acquisition, Retention, CAC/LTV.",
+        "growth_cro": "Growth & CRO Specialist with 15+ years optimizing conversion funnels at scale. Experience at Meta, Telium, Fast Shop. Expert in A/B testing, funnel architecture, and data-driven optimization. Results: +25% conversion rate, -20% sales cycle. Keywords: CRO, A/B Testing, Landing Pages, Conversion Rate, Funnel Analysis.",
+        "branding": "Brand Strategy Leader combining neuroscience expertise (Mackenzie/USP) with 15+ years of execution at Meta, Ambev, Suzano. Led post-M&A rebranding with +25% brand recall. Expert in consumer psychology, neuromarketing, and strategic positioning. Keywords: Brand Positioning, Brand Architecture, Consumer Insights, Neurobranding.",
+        "media_traffic": "Paid Media & Performance Specialist with 15+ years experience across Meta Ads, Google Ads, and programmatic. Ex-Meta with direct platform expertise. Led campaigns generating US$85M partner-driven revenue. Expert in ROAS optimization, attribution, and media strategy. Keywords: Meta Ads, Google Ads, ROAS, CPL, CPA, Retargeting.",
+        "revops": "RevOps Leader specialized in unifying sales and marketing operations through automation. Built data pipelines connecting CRM, ads, and analytics. Results: +25% revenue, -20% CAC, unified reporting. Expert in HubSpot, GoHighLevel, SQL. Keywords: RevOps, Sales Operations, Pipeline, CRM, Attribution, Analytics.",
+        "content_strategy": "Content Strategy Leader with experience at Ambev (10M+ impressions viral campaigns) and enterprise clients. Expert in AI-powered content production (40% faster delivery), editorial planning, and influencer marketing. Coordinated campaigns with major influencers. Keywords: Content Marketing, Editorial, SEO, Copywriting.",
+        "marketing_manager": "Marketing Manager with 15 years experience at Meta, Ambev, Dow, Suzano. Solid track record in brand strategy, digital marketing, and growth. Led initiatives with US$85M+ impact in LATAM. Keywords: Marketing Strategy, Brand Management, Digital Marketing, Team Leadership.",
+        "b2b_marketing": "B2B Marketing Manager with proven demand generation track record at Dow Chemical and enterprise clients. Built US$5M+ marketing-originated pipeline. Expert in ABM, content marketing, lead nurturing, and sales enablement. +30% MQL increase. Keywords: B2B Marketing, ABM, Demand Gen, Lead Generation, Inbound.",
+        "digital_transformation": "Digital Transformation Leader with 15+ years implementing AI and automation at enterprise scale. Expert in process automation (n8n, Docker), change management, and stakeholder alignment. 95% adoption rate in implementations. Background: Meta, Ambev, Dow. Keywords: Digital Transformation, Process Automation, Change Management.",
+        "ai_lead": "AI Operations professional with 15+ years business experience now focused on building production AI systems. Hands-on with n8n, Docker, Python, SQL, LLM orchestration. Building Agentic Flows for e-commerce automation. Background: Meta, Ambev, Dow. Keywords: AI Operations, LLM, Automation, Python, SQL.",
+        "customer_success": "Customer Success & CX professional with 15+ years building retention and lifecycle programs. Expert in marketing automation, customer journey optimization, and AI-powered chatbots (85% first-response resolution). Background: Meta, Ambev, e-commerce. Keywords: Customer Success, CX, Retention, LTV, NPS, Onboarding."
+    },
+    "education": [
+        {
+            "institution": "USP - University of São Paulo",
+            "program": "MSc Communications",
+            "focus": "Culture and Communication",
+            "status": "In Progress",
+            "year": "2024 - Present",
+            "tier": "core"
+        },
+        {
+            "institution": "FAPCOM / IJEP",
+            "program": "Analytical Psychology Formation",
+            "focus": "Jungian Psychology applied to behavior",
+            "year": "2023 - 2024",
+            "tier": "contextual"
+        },
+        {
+            "institution": "NEXT MBA",
+            "program": "MBA Marketing Director",
+            "highlight": "With Philip Kotler",
+            "year": "Apr 2024 - Jan 2025",
+            "tier": "core"
+        },
+        {
+            "institution": "Mackenzie University",
+            "program": "Specialization in Psychology and Neuroscience",
+            "focus": "Decision-making and cognitive processes",
+            "year": "2018 - 2020",
+            "tier": "core"
+        },
+        {
+            "institution": "Miami Ad School Brazil",
+            "program": "Planning Specialist",
+            "focus": "Communication and Media Studies",
+            "year": "2015",
+            "tier": "contextual"
+        },
+        {
+            "institution": "Saint Paul Business School",
+            "program": "MBA in Business Administration",
+            "year": "2014 - 2016",
+            "tier": "core"
+        },
+        {
+            "institution": "ESPM",
+            "program": "BA in Advertising and Marketing",
+            "highlight": "Research Assistant in Master's program",
+            "year": "2007 - 2011",
+            "tier": "core"
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "company": "Lorinz Consulting / Ser Contributivo",
+            "role": "Senior Marketing Consultant",
+            "period": "Dec 2022 - Present",
+            "duration": "2+ years",
+            "location": "São Paulo, Brazil (Remote)",
+            "tier": "core",
+            "scope": "Brandformance, Martech, RevOps, AI-assisted Growth | B2B & E-commerce",
+            "clients": [
+                "360 Dialog",
+                "Borelli",
+                "JEM Systems"
+            ],
+            "bullets": [
+                "Architected agentic AI workflows using n8n, Docker, and PostgreSQL for cart abandonment recovery. Result: 80% reduction in manual CS, 98% accuracy, 15% cart recovery.",
+                "Implemented local AI stack (ComfyUI, Eleven Labs, Ollama) for content production. Result: 40% reduction in production time, 3x more campaigns/month.",
+                "Built data pipelines with n8n, GoHighLevel, and SQL to unify CRM, ads, and analytics. Result: +25% revenue, -20% CAC.",
+                "Led rebranding and strategic positioning for clients. Result: +30% campaign performance, +25% average revenue.",
+                "Developed training program for 1,000+ stakeholders on martech tools. Result: 95% satisfaction, 80% adoption in 3 months."
+            ],
+            "keywords": [
+                "RevOps",
+                "n8n",
+                "Automation",
+                "AI",
+                "CRM",
+                "HubSpot",
+                "Pipeline",
+                "E-commerce"
+            ]
+        },
+        {
+            "id": 2,
+            "company": "Meta (Facebook)",
+            "role": "Partner Marketing Lead",
+            "period": "Dec 2021 - Dec 2022",
+            "duration": "1 year 1 month",
+            "location": "São Paulo, Brazil",
+            "tier": "core",
+            "scope": "Partner Marketing, GTM, Discovery Commerce | LATAM & North America",
+            "bullets": [
+                "Created multi-channel campaign for Discovery Commerce featured in AdWeek and Meio & Mensagem. Result: US$85M revenue impact through partner-driven campaigns.",
+                "Developed Canva Creative Journey and Commerce Performance Series for partner certification. Result: Contributed to 50%+ of region's partner-driven revenue.",
+                "Built dashboards and executive presentations for QBRs with C-level stakeholders. Result: Increased stakeholder confidence, secured additional program investment.",
+                "Created AI-powered chatbot for ableist language detection for Disability@ ERG. Result: Featured by executive leadership, +50% ERG membership."
+            ],
+            "keywords": [
+                "GTM",
+                "Partner Marketing",
+                "Meta Ads",
+                "LATAM",
+                "B2B",
+                "Stakeholder Management"
+            ]
+        },
+        {
+            "id": 3,
+            "company": "Telium Networks",
+            "role": "Senior Marketing Manager",
+            "period": "Nov 2020 - Dec 2021",
+            "duration": "1 year 2 months",
+            "location": "São Paulo, Brazil",
+            "tier": "core",
+            "scope": "Branding, Growth, MarTech | B2B Technology | Direct report to CEO",
+            "bullets": [
+                "Implemented marketing automation and lead scoring for lead qualification. Result: +25% conversion in 3 months, -20% sales cycle.",
+                "Led marketing audit and created new brand positioning (AllWaysON). Result: Growth accelerated from 20% to 30% YoY, +40% brand awareness."
+            ],
+            "keywords": [
+                "Growth",
+                "Branding",
+                "B2B",
+                "Automation",
+                "Lead Scoring",
+                "Conversion"
+            ]
+        },
+        {
+            "id": 4,
+            "company": "Caricanecas",
+            "role": "Marketing Manager",
+            "period": "Nov 2019 - Nov 2020",
+            "duration": "1 year 1 month",
+            "location": "São Paulo, Brazil",
+            "tier": "contextual",
+            "bullets": [
+                "Led all marketing initiatives for the company, establishing marketing operations from scratch."
+            ],
+            "keywords": [
+                "Marketing",
+                "SMB",
+                "Management"
+            ]
+        },
+        {
+            "id": 5,
+            "company": "Ambev (ABInBev)",
+            "role": "Internal Communications Specialist",
+            "period": "Jun 2018 - Nov 2019",
+            "duration": "1 year 6 months",
+            "location": "São Paulo, Brazil",
+            "tier": "core",
+            "scope": "Internal Communications | LATAM (AmBev) & Global (AbInbev)",
+            "bullets": [
+                "Managed agencies for events, video production, and influencer partnerships (Anitta, Wesley Safadão) for Dia de Responsa campaign. Result: Trending on Twitter, praised by global CEO Carlos Brito, 10M+ impressions.",
+                "Created content calendar and supervised internal campaigns (sustainability, wellness, launches). Result: +50% employee engagement, consistent brand voice across LATAM."
+            ],
+            "keywords": [
+                "Internal Communications",
+                "Influencer Marketing",
+                "Social Media",
+                "Campaigns",
+                "Viral"
+            ]
+        },
+        {
+            "id": 6,
+            "company": "Fast Shop",
+            "role": "Senior Marketing Analyst",
+            "period": "Jun 2017 - Jun 2018",
+            "duration": "1 year 1 month",
+            "location": "São Paulo, Brazil",
+            "tier": "contextual",
+            "bullets": [
+                "Managed R$5M budget for leading brands (Samsung, Electrolux, Sony, LG, Apple) across 100+ stores. Optimized pricing and communication strategy for main categories."
+            ],
+            "keywords": [
+                "Retail",
+                "Trade Marketing",
+                "B2C",
+                "Budget Management"
+            ]
+        },
+        {
+            "id": 7,
+            "company": "Bendito Grão",
+            "role": "Marketing Analyst (Jr → Mid)",
+            "period": "Nov 2015 - Jun 2017",
+            "duration": "1 year 8 months",
+            "location": "São Paulo, Brazil",
+            "tier": "contextual",
+            "bullets": [
+                "Developed e-commerce platform and product marketing strategies. Result: US$1M revenue increase in first year.",
+                "Implemented positioning strategy with product narratives. Result: +40% average annual online revenue."
+            ],
+            "keywords": [
+                "E-commerce",
+                "Product Marketing",
+                "Go-to-Market",
+                "Revenue Growth"
+            ]
+        },
+        {
+            "id": 8,
+            "company": "The Dow Chemical Company",
+            "role": "Jr Data Analyst",
+            "period": "Nov 2013 - Nov 2015",
+            "duration": "2 years 1 month",
+            "location": "São Paulo, Brazil",
+            "tier": "contextual",
+            "bullets": [
+                "Developed full-stack tool (front and back end) using InfoPath, SharePoint, and VBA for sample tracking. Result: Improved Order-to-Cash process visibility across Latin America.",
+                "Delivered training in English and Spanish across LATAM countries. Led safety training for CSRs."
+            ],
+            "keywords": [
+                "VBA",
+                "SharePoint",
+                "Automation",
+                "LATAM",
+                "Analytics",
+                "Full-stack"
+            ]
+        },
+        {
+            "id": 9,
+            "company": "TransPerfect",
+            "role": "Translation Specialist",
+            "period": "Sep 2011 - Nov 2013",
+            "duration": "2 years 3 months",
+            "location": "Toronto, Canada (6 months) + São Paulo (1.5 years)",
+            "tier": "contextual",
+            "international": true,
+            "bullets": [
+                "Translated for global brands (Tiffany, Canon, Samsung, Blue Tree) applying advertising copywriting expertise. International experience in Toronto."
+            ],
+            "keywords": [
+                "Translation",
+                "English",
+                "Copywriting",
+                "International"
+            ]
+        },
+        {
+            "id": 10,
+            "company": "Suzano",
+            "role": "Marketing Intern",
+            "period": "Jul 2010 - Jul 2011",
+            "duration": "1 year 1 month",
+            "location": "São Paulo, Brazil",
+            "tier": "contextual",
+            "bullets": [
+                "Worked across entire B2B production chain: ideation (design thinking), prototyping, testing, and product launch with events and on/off communication."
+            ],
+            "keywords": [
+                "B2B",
+                "Design Thinking",
+                "Product Launch"
+            ]
+        }
+    ],
+    "ai_projects": [
+        {
+            "name": "E-commerce Agentic Workflow",
+            "bullet": "Built autonomous AI agents for cart recovery and triage using n8n, Docker, PostgreSQL. Result: 98% accuracy, 80% automation, 15% recovery.",
+            "keywords": [
+                "Agentic AI",
+                "n8n",
+                "Docker",
+                "E-commerce",
+                "Automation"
+            ]
+        },
+        {
+            "name": "RAG-Powered Product Assistant",
+            "bullet": "Developed WhatsApp chatbot with RAG for instant answers using embeddings and vector DB. Result: -70% response time, 85% first-contact resolution.",
+            "keywords": [
+                "RAG",
+                "LLM",
+                "Chatbot",
+                "WhatsApp",
+                "Customer Service"
+            ]
+        },
+        {
+            "name": "Local AI Content Pipeline",
+            "bullet": "Created end-to-end pipeline with local LLMs, image generation, and voice synthesis. Result: 40% faster, 3x more content.",
+            "keywords": [
+                "AI",
+                "Content",
+                "ComfyUI",
+                "Ollama",
+                "Automation"
+            ]
+        },
+        {
+            "name": "RevOps Automation Stack",
+            "bullet": "Built unified pipeline connecting CRM, ads, and analytics. Result: +25% revenue, -20% CAC.",
+            "keywords": [
+                "RevOps",
+                "CRM",
+                "Analytics",
+                "Pipeline",
+                "Automation"
+            ]
+        }
+    ],
+    "skills": {
+        "_comment": "No levels - proof is in the bullets (Gemini suggestion)",
+        "core": [
+            "Branding",
+            "Marketing Automation",
+            "GTM",
+            "RevOps",
+            "Growth",
+            "CRO",
+            "Stakeholder Management",
+            "P&L"
+        ],
+        "martech": [
+            "HubSpot",
+            "GoHighLevel",
+            "Meta Ads",
+            "Google Ads",
+            "GA4",
+            "CRM",
+            "n8n",
+            "Make"
+        ],
+        "technical": [
+            "Python",
+            "SQL",
+            "Docker",
+            "PostgreSQL",
+            "VBA",
+            "SharePoint"
+        ],
+        "ai": [
+            "LLM",
+            "RAG",
+            "Agentic AI",
+            "Prompt Engineering",
+            "ComfyUI",
+            "Ollama"
+        ],
+        "contextual": [
+            "Neuroscience",
+            "Analytical Psychology",
+            "Music Production",
+            "Theater"
+        ]
+    },
+    "anti_overqualification": {
+        "salary_range": "BRL 15k - 25k (CLT/Contract)",
+        "manager_calibration": {
+            "use_verbs": [
+                "Created",
+                "Developed",
+                "Implemented",
+                "Built",
+                "Executed",
+                "Managed"
+            ],
+            "avoid_terms": [
+                "C-level",
+                "Continental",
+                "Global Strategy",
+                "Led ecosystem"
+            ],
+            "focus": "Execution, ROI, hands-on, measurable results"
+        },
+        "senior_calibration": {
+            "use_verbs": [
+                "Led",
+                "Defined",
+                "Architected",
+                "Scaled",
+                "Established"
+            ],
+            "focus": "P&L, Stakeholder Management, Strategic Impact"
+        },
+        "bullet_ratio": {
+            "execution": "60-70%",
+            "strategic": "30-40%",
+            "rule": "Always start with execution"
+        }
+    }
+}

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ nome }} - Resume</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-size: 10px;
+            line-height: 1.4;
+            color: #1a1a2e;
+            background: #ffffff;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        .resume {
+            max-width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto;
+            padding: 24px 28px;
+            background: #ffffff;
+        }
+        
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #0f4c81;
+        }
+        
+        .header-left h1 {
+            font-size: 22px;
+            font-weight: 700;
+            color: #0f4c81;
+            letter-spacing: -0.5px;
+            margin-bottom: 4px;
+        }
+        
+        .header-left .headline {
+            font-size: 11px;
+            font-weight: 500;
+            color: #4a5568;
+        }
+        
+        .header-right {
+            text-align: right;
+            font-size: 9px;
+            color: #4a5568;
+        }
+        
+        .header-right a {
+            color: #0f4c81;
+            text-decoration: none;
+        }
+        
+        /* Summary */
+        .summary {
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            padding: 12px 14px;
+            border-radius: 6px;
+            margin-bottom: 14px;
+            border-left: 3px solid #0f4c81;
+        }
+        
+        .summary p {
+            font-size: 10px;
+            color: #2d3748;
+            line-height: 1.5;
+        }
+        
+        /* Sections */
+        .section {
+            margin-bottom: 14px;
+        }
+        
+        .section-title {
+            font-size: 11px;
+            font-weight: 700;
+            color: #0f4c81;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        /* Experience */
+        .experience-item {
+            margin-bottom: 10px;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 4px;
+        }
+        
+        .experience-header h3 {
+            font-size: 11px;
+            font-weight: 600;
+            color: #1a1a2e;
+        }
+        
+        .experience-header .company {
+            font-weight: 500;
+            color: #0f4c81;
+        }
+        
+        .experience-header .period {
+            font-size: 9px;
+            color: #718096;
+        }
+        
+        .experience-bullets {
+            list-style: none;
+            padding-left: 12px;
+        }
+        
+        .experience-bullets li {
+            position: relative;
+            font-size: 9.5px;
+            color: #2d3748;
+            margin-bottom: 3px;
+            line-height: 1.4;
+        }
+        
+        .experience-bullets li::before {
+            content: "▸";
+            position: absolute;
+            left: -12px;
+            color: #0f4c81;
+        }
+        
+        .metric {
+            font-weight: 600;
+            color: #0f4c81;
+        }
+        
+        /* Skills */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+        }
+        
+        .skill-category h4 {
+            font-size: 9px;
+            font-weight: 600;
+            color: #4a5568;
+            margin-bottom: 4px;
+        }
+        
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+        
+        .skill-tag {
+            font-size: 8px;
+            padding: 2px 6px;
+            background: #edf2f7;
+            color: #2d3748;
+            border-radius: 3px;
+        }
+        
+        .skill-tag.highlight {
+            background: #0f4c81;
+            color: #ffffff;
+        }
+        
+        /* Education */
+        .education-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
+        
+        .education-item h4 {
+            font-size: 10px;
+            font-weight: 600;
+            color: #1a1a2e;
+        }
+        
+        .education-item .institution {
+            font-size: 9px;
+            color: #0f4c81;
+        }
+        
+        .education-item .year {
+            font-size: 8px;
+            color: #718096;
+        }
+        
+        /* Languages */
+        .languages {
+            display: flex;
+            gap: 16px;
+            font-size: 9px;
+        }
+        
+        .language strong {
+            color: #0f4c81;
+        }
+        
+        /* Print optimization */
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            .resume {
+                padding: 20px 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="resume">
+        <header class="header">
+            <div class="header-left">
+                <h1>{{ nome }}</h1>
+                <div class="headline">{{ headline }}</div>
+            </div>
+            <div class="header-right">
+                <div>{{ email }}</div>
+                <div><a href="https://{{ linkedin }}">{{ linkedin }}</a></div>
+                <div>São Paulo, Brasil</div>
+            </div>
+        </header>
+        
+        <section class="summary">
+            <p>{{ summary }}</p>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">Professional Experience</h2>
+            {% for exp in experience %}
+            <div class="experience-item">
+                <div class="experience-header">
+                    <h3><span class="company">{{ exp.empresa }}</span> — {{ exp.cargo }}</h3>
+                    <span class="period">{{ exp.periodo }}</span>
+                </div>
+                <ul class="experience-bullets">
+                    {% for bullet in exp.bullets %}
+                    <li>{{ bullet | safe }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h4>AI & Infrastructure</h4>
+                    <div class="skill-tags">
+                        {% for skill in skills.ai %}
+                        <span class="skill-tag highlight">{{ skill }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h4>Data & Analytics</h4>
+                    <div class="skill-tags">
+                        {% for skill in skills.data %}
+                        <span class="skill-tag">{{ skill }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h4>Product & Leadership</h4>
+                    <div class="skill-tags">
+                        {% for skill in skills.product %}
+                        <span class="skill-tag">{{ skill }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">Education</h2>
+            <div class="education-grid">
+                {% for edu in education %}
+                <div class="education-item">
+                    <h4>{{ edu.titulo }}</h4>
+                    <div class="institution">{{ edu.instituicao }}</div>
+                    <div class="year">{{ edu.ano }}</div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">Languages</h2>
+            <div class="languages">
+                {% for lang in languages %}
+                <span class="language"><strong>{{ lang.idioma }}</strong>: {{ lang.nivel }}</span>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+</body>
+</html>

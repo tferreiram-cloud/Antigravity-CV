@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="{{ profile.language }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ profile.candidato.nome_completo }} - Resume</title>
+
+    <!-- WeasyPrint-friendly fonts (Local or Google Fonts if network allowed) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@600;700&display=swap"
+        rel="stylesheet">
+
+    <style>
+        /* PDF / Print Reset */
+        @page {
+            margin: 1.5cm;
+            size: A4;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            font-size: 10pt;
+            line-height: 1.5;
+            color: #1a1a1a;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Typography */
+        h1,
+        h2,
+        h3,
+        h4 {
+            font-family: 'Outfit', sans-serif;
+            margin: 0;
+            line-height: 1.2;
+            color: #000;
+        }
+
+        h1 {
+            font-size: 24pt;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin-bottom: 4px;
+        }
+
+        h2 {
+            font-size: 14pt;
+            font-weight: 600;
+            color: #2563eb;
+            /* Blue-600 */
+            margin-bottom: 12px;
+        }
+
+        h3 {
+            font-size: 12pt;
+            font-weight: 700;
+            margin-top: 16px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 4px;
+        }
+
+        h4 {
+            font-size: 11pt;
+            font-weight: 600;
+        }
+
+        p {
+            margin: 0 0 8px 0;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        /* Header */
+        header {
+            margin-bottom: 24px;
+        }
+
+        .contact-info {
+            font-size: 9pt;
+            color: #4b5563;
+            margin-bottom: 12px;
+        }
+
+        .summary {
+            font-size: 10pt;
+            color: #374151;
+            text-align: justify;
+        }
+
+        /* Sections */
+        .section {
+            margin-bottom: 16px;
+        }
+
+        /* Experience Item */
+        .experience-item {
+            margin-bottom: 12px;
+            page-break-inside: avoid;
+        }
+
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 4px;
+        }
+
+        .company {
+            font-weight: 600;
+            color: #111827;
+        }
+
+        .role {
+            font-weight: 500;
+            font-style: italic;
+            color: #374151;
+        }
+
+        .period {
+            font-size: 9pt;
+            color: #6b7280;
+            float: right;
+        }
+
+        .tech-stack {
+            font-size: 8pt;
+            font-family: 'Courier New', monospace;
+            color: #4b5563;
+            margin-bottom: 4px;
+        }
+
+        /* Bullets */
+        ul {
+            margin: 4px 0 0 16px;
+            padding: 0;
+            list-style-type: square;
+        }
+
+        li {
+            margin-bottom: 3px;
+            color: #374151;
+        }
+
+        /* Skills */
+        .skills-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .skill-tag {
+            background-color: #f3f4f6;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-size: 9pt;
+            font-weight: 500;
+        }
+
+        /* Two Column Trick for PDF (Float or Flex doesn't always work perfectly in weasyprint 0.x versions but let's try Flex specific for recent versions or fallback to simple flow) */
+
+        /* For this ATS version, we prefer SINGLE COLUMN for maximum parsing safety */
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>{{ profile.candidato.nome_completo|upper }}</h1>
+        <div class="contact-info">
+            {{ profile.candidato.localizacao }} •
+            {% for contact in profile.candidato.contato %}
+            {% if '@' in contact or 'linkedin' in contact %}
+            {{ contact }} •
+            {% endif %}
+            {% endfor %}
+            <a href="#">Portfolio/Web</a>
+        </div>
+
+        <h2>{{ tailored.headline }}</h2>
+        <p class="summary">
+            {{ tailored.summary }}
+        </p>
+    </header>
+
+    <div class="section">
+        <h3>Technical Skills</h3>
+        <div class="skills-grid">
+            {% for skill in tailored.skills %}
+            <span class="skill-tag">{{ skill }}</span>
+            {% endfor %}
+            {% for core in profile.skills.core %}
+            <span class="skill-tag" style="background-color: #e0f2fe; color: #0369a1;">{{ core }}</span>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="section">
+        <h3>Professional Experience</h3>
+
+        {% for job in tailored.experiences %}
+        <div class="experience-item">
+            <div class="job-header">
+                <div>
+                    <span class="company">{{ job.company }}</span> — <span class="role">{{ job.role }}</span>
+                </div>
+                <span class="period">{{ job.period }}</span>
+            </div>
+
+            {% if job.tech_stack %}
+            <div class="tech-stack">
+                Stack: {{ job.tech_stack|join(', ') }}
+            </div>
+            {% endif %}
+
+            <ul>
+                {% for bullet in job.bullets %}
+                <li>{{ bullet }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if tailored.projects %}
+    <div class="section">
+        <h3>Key Projects</h3>
+        {% for project in tailored.projects %}
+        <div class="experience-item">
+            <div class="job-header">
+                <span class="company">{{ project.name }}</span>
+            </div>
+            <p>{{ project.description }}</p>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="section">
+        <h3>Education</h3>
+        {% for edu in profile.educacao %}
+        <div class="experience-item" style="margin-bottom: 8px;">
+            <div class="job-header">
+                <span class="company">{{ edu.instituicao }}</span>
+                <span class="period">{{ edu.periodo }}</span>
+            </div>
+            <div>{{ edu.curso }}</div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h3>Languages</h3>
+        <p>
+            {% for lang in profile.idiomas %}
+            <strong>{{ lang.idioma }}</strong> ({{ lang.nivel }}){% if not loop.last %} • {% endif %}
+            {% endfor %}
+        </p>
+    </div>
+
+</body>
+
+</html>

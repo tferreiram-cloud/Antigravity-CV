@@ -1,0 +1,97 @@
+Octadesk | Desenvolvedor(a) Front End Sr Vue.js | Remoto - LWSA
+
+A Octadesk é uma empresa SaaS eleita pelo MIT em 2023 como uma das 20 mais inovadoras do país. Somos a maior e melhor plataforma de atendimento com IA, resolvendo a jornada do cliente desde o marketing até pós vendas. Nossa missão é fazer com que as empresas atendam, como as pessoas querem ser atendidas.
+
+
+Se você é apaixonado por tecnologia, inovação e gosta de desafiar o status quo, a Octadesk é o lugar certo para você.
+
+ **Responsabilidades e atribuições**  
+
+* Desenvolver interfaces de alta qualidade utilizando Vue.js (Vue 2 e Vue 3\) e suas bibliotecas associadas (Vuex, Composables, VueQuery), com TypeScript.
+* Contribuir com projetos em React.js e Next.js, conforme necessidade dos times.
+* Garantir código limpo, reutilizável, escalável e bem documentado.
+* Implementar componentes reutilizáveis seguindo boas práticas de arquitetura e mantendo a consistência com o Design System.
+* Trabalhar com CSS moderno, como TailwindCSS, Emotion ou Styled Components.
+* Aplicar estratégias de performance como Lazy Loading, Code Splitting e Tree Shaking.
+* Colaborar com o time de Design utilizando Figma e participando ativamente do ciclo de vida do Design System.
+* Escrever e manter testes automatizados com Vitest, Jest ou Cypress.
+* Atuar em conjunto com Product Designers (PD) e Product Managers (PM) na construção de novas funcionalidades.
+* Compartilhar conhecimento com o time, fomentando boas práticas de desenvolvimento.
+
+  
+
+**Requisitos e qualificações**  
+
+* Sólida experiência com JavaScript e TypeScript.
+* Familiaridade com versionamento de código (Git) e GitHub.
+* Conhecimento em CI/CD, automações e pipelines focadas em front\-end.
+* Vivência com metodologias ágeis, como Scrum ou Kanban.
+* Perfil proativo, com olhar crítico para propor melhorias de performance e usabilidade.
+* Experiência colaborativa com outras áreas, especialmente Design e Produto.
+
+  
+
+**Informações adicionais** **Benefícios oferecidos pela Octadesk**
+
+
+Convênio médico;
+
+
+Convênio odontológico;
+
+
+Vale refeição ou vale alimentação;
+
+
+Auxílio creche;
+
+
+Férias\&Co (benefício de viagens);
+
+
+ Day off de Aniversário;
+
+
+Alphafitness \- Parceria voltada ao cuidado da mente e corpo;
+
+
+Seguro de vida;
+
+
+Licença maternidade e paternidade estendidas;
+
+
+WellHub (GymPass);
+
+ **Estamos em um lugar incrível:**
+
+
+R. Itapaiúna, 2434 \- Parque do Morumbi, São Paulo \- SP \| 05707\-001
+
+ **Importante ressaltar:**
+
+
+Essa e todas as vagas abertas da companhia LWSA são elegíveis para todas as pessoas, independente de gênero, etnia, orientação sexual, acessibilidade e/ou condição social.
+
+
+Ressaltamos que nossas vagas estão abertas para todas as pessoas com deficiência (PcDs).
+
+  
+
+Sabia que a LWSA é um ecossistema de soluções digitais formado por diversas empresas? Pois é, e todas elas compartilham de um único objetivo: **transformar negócios para crescerem e prosperarem por meio da tecnologia**.
+
+  
+
+Nosso time é reconhecido pela **paixão, criatividade, persistência e colaboração**. E assim como as pessoas que constroem suas carreiras por aqui, cada uma das nossas marcas possui seu próprio jeito de ser, porém se assemelham na vontade de evoluir e entregar sempre o melhor.
+
+ **A LWSA tem um lugar que pode ser a sua cara!**
+
+
+Aqui, você poderá construir sua carreira em um ambiente de **autonomia, respeito e diversidade**, em uma Cia. que busca desenvolver seus profissionais para continuar inovando e criando as soluções do futuro.
+
+  
+
+E aí, bora fazer parte desse ecossistema e descobrir todas as possibilidades que temos para a sua carreira?
+
+
+Sentir que deu um “match” com o nosso perfil e compartilhar seu currículo por aqui, é o primeiro passo para vir fazer do nosso time!

@@ -1,0 +1,61 @@
+Solutions Architect Microsoft - TD SYNNEX
+
+Responsável por impulsionar a adição de novos clientes de GitHub Copilot no Azure, em parceria com ecossistemas indiretos.  
+
+  
+
+**Responsabilidades e Atribuições**  
+
+* Aproveitar os dados do Azure do cliente para orientar a execução de go\-to\-market (GTM) na com o GitHub Copilot/Innovate with AI Apps and Agents.
+* Influenciar a liderança para estabelecer a comunidade de revendas, fornecendo feedback e melhores práticas à equipe do GitHub.
+* Ativar revendas e acelerar as atividades de GTM e vendas de GitHub Copilot para impulsionar a aquisição de novos clientes (novos "logos") de GitHub Copilot.
+* Participação obrigatória nas atividades e eventos do programa SureStep da Microsoft e do GitHub.
+* Foco em construir uma comunidade de revendas com 25\-50 parceiros dispostos a desenvolver uma prática de GitHub Copilot. Realizar abordagem direcionada aos parceiros para obter o comprometimento das revendas (gives/gets) em desenvolver a prática de GitHub nas frentes de implementação, marketing, produto e vendas, a fim de gerar novas conversas com clientes.
+* Desenvolver programas e ofertas da Microsoft (campanhas) no Azure. Capacitar parceiros e realizar demonstrações para fomentar novas conversas com clientes.
+* Elaborar e executar um plano com cada parceiro para atingir metas mensais de aquisição de novos clientes.
+* Implementar um ritmo de negócios (RoB) com vendedores prioritários, GitHub e stakeholders da Microsoft (PDM, PSA, Channel Sales) para impulsionar o progresso.
+
+  
+
+**Requisitos e Qualificações**  
+
+* Formação completa em Gestão de TI, Redes, Ciência da Computação, Sistemas ou áreas relacionadas.
+* Experiência em empresa de serviços de TI, parceiro de Azure ou fornecedor de tecnologia com competências reconhecidas.
+* Compreensão básica de Azure, aplicativos, desenvolvimento, IA e do ecossistema de parceiros da Microsoft.
+* Inglês fluente
+* Certificação Azure Fundamentals AZ\-900, AZ\-200, AZ\-204;
+* Desejável conhecimento em GitHub Foundations
+
+  
+
+**Local**  
+
+* São Paulo \- SP
+* Modelo híbrido
+
+  
+
+**Key Skills**  
+
+  
+
+At TD SYNNEX, our values guide everything we do: Together, We Own It, We Dare to Go, We Grow and Win, and above all, We Do the Right Thing. These principles shape how we work with each other, our partners, and our communities as we drive innovation and create lasting impact.  
+
+  
+
+**What's In It For You?**  
+
+* **Elective Benefits:** Our programs are tailored to your country to best accommodate your lifestyle.
+* **Grow Your Career:** Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more on\-demand courses.
+* **Elevate Your Personal Well\-Being:** Boost your financial, physical, and mental well\-being through seminars, events, and our global Life Empowerment Assistance Program.
+* **Diversity, Equity \& Inclusion:** It's not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through inclusive education, meaningful peer\-to\-peer conversations, and equitable growth and development opportunities.
+* **Make the Most of our Global Organization**: Network with other new co\-workers within your first 30 days through our onboarding program.
+* **Connect with Your Community:** Participate in internal, peer\-led inclusive communities and activities, including business resource groups, local volunteering events, and more environmental and social initiatives.
+
+  
+
+**Don't meet every single requirement? Apply anyway.**  
+
+  
+
+At TD SYNNEX, we're proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity and inclusion. If you're excited about working for our company and believe you're a good fit for this role, we encourage you to apply. You may be exactly the person we're looking for!

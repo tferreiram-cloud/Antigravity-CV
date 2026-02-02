@@ -1,0 +1,14 @@
+# Taylor-Made Resume Generator
+# Dependências do projeto
+
+beautifulsoup4
+google-generativeai
+# n8n-python # REMOVED: Package not found
+weasyprint
+requests>=2.28.0
+flask>=3.0.0
+flask-cors
+python-dotenv
+jinja2
+playwright
+anthropic>=0.40.0

@@ -1,0 +1,119 @@
+Product & Engineering Manager, Conversational AI & Service Platforms - Kimberly-Clark
+
+**Job Description**
+**Your Job**
+ You’re not the person who will settle for just any role. Neither are we. Because we’re out to create Better Care for a Better World, and that takes a certain kind of person and teams who care about making a difference. Here, you’ll bring your professional expertise, talent, and drive to building and managing our portfolio of iconic, ground\-breaking brands. In this role, you’ll help us deliver better care for billions of people around the world. It starts with YOU.
+   
+
+  
+
+ Product \& Engineering Manager, Conversational AI \& Service Platforms owns strategy, engineering oversight, and global scalability of Conversational AI and Consumer Service Platforms, driving AI\-powered automation, chatbot innovation, and measureable improvements in consumer service quality, efficiency and experience across markets and communication channels. This role is responsible for managing and evolving the global Consumer Services platform, currently Salesforce Service Cloud, within the DTS function. The position requires close collaboration with other digital technology solutions (DTS) teams, global growth organization (GGO) and business stakeholders to deliver scalable, secure, and innovative solutions for the platform and also stable Call Center operations worldwide.
+   
+
+  
+
+**In This Role, You Will**
+* Own the vision, roadmap, and full lifecycle of the Consumer Services platform (Salesforce Service Cloud).
+* Define and prioritize platform features and enhancements grounded in business needs, customer insights, and emerging technology trends.
+* Partner with business segments to gather requirements and align platform solutions to shared goals.
+* Translate business requirements into platform and AI capabilities; manage the product backlog and release cycles using Agile methodologies.
+* Establish the long‑term strategy integrating AI, analytics, automation, and customer experience innovation.
+* Govern responsible AI standards for conversational experiences, ensuring accuracy, fairness, proper escalation, and regulatory compliance.
+* Balance operational excellence (“run the business”) with transformational innovation, maintaining platform reliability, uptime, and service continuity.
+* Define and track OKRs and KPIs measuring the impact of conversational AI and automation, including CX performance, service quality, cost‑to‑serve, and efficiency.
+* Own end‑to‑end conversational architecture, including bot design, orchestration, human handoff, and consistent omni‑channel experiences across regions and brands.
+* Lead product owner, scrum master and engineering teams to ensure high‑quality delivery and platform stability; Provide product, technical, and AI leadership to platform team members, fostering strong Agile practices, continuous learning, and a culture of innovation and accountability.
+* Manage vendor relationships, contracts, and licensing for the Consumer Services platform ecosystem.
+* Ensure adherence to security, privacy, and data governance standards.
+* Monitor platform performance, identify issues, and drive continuous improvement initiatives.
+* Lead integration efforts with enterprise systems to ensure a seamless, scalable end‑to‑end architecture.
+* Provide guidance and support for platform‑related projects, issues, and escalations
+
+
+**About Us**
+ Huggies®. Kleenex®. Cottonelle®. Scott®. Kotex®. Poise®. Depend®. Kimberly\-Clark Professional®. You already know our legendary brands—and so does the rest of the world. In fact, millions of people use Kimberly\-Clark products every day. We know these amazing Kimberly\-Clark products wouldn’t exist without talented professionals, like you.
+   
+
+  
+
+ At Kimberly\-Clark, you’ll be part of the best team committed to driving innovation, growth and impact. We’re founded on more than 150 years of market leadership, and we’re always looking for new and better ways to perform – so there’s your open door of opportunity. It’s all here for you at Kimberly\-Clark.
+   
+
+  
+
+**About You**
+ You perform at the highest level possible, and you appreciate a performance culture fueled by authentic caring. You want to be part of a company actively dedicated to sustainability, inclusion, wellbeing, and career development.
+   
+
+  
+
+ You love what you do, especially when the work you do makes a difference. At Kimberly\-Clark, we’re constantly exploring new ideas on how, when, and where we can best achieve results. When you join our team, you’ll experience Flex
+   
+
+  
+
+ That Works: flexible work arrangements that empower you to have purposeful time in the office and partner with your leader to make flexibility work for both you and the business.
+   
+
+  
+
+**Qualifications**
+ In one of our professional roles, you’ll focus on winning with consumers and the market, while putting safety, mutual respect, and human dignity at the center. To succeed in this role, you will need the following qualifications:
+   
+
+  
+
+**Who you are?**
+* Bachelor’s degree in Computer Science, Information Technology, Business, or related field
+* Master’s degree preferred.
+* 5\+ years of experience in product or platform management roles within IT, preferably supporting large‑scale enterprise platforms.
+* Strong understanding of consumer care technology strategy, solution architecture, and service operations.
+* Strong understanding of Agile methodologies, product lifecycle management, software engineering principles, and modern cloud technologies.
+* Experience operating in global organizations and leading cross‑functional, distributed teams.
+* Hands‑on experience with Salesforce Service Cloud, including configuration, platform capabilities, and ecosystem integrations.
+* Working knowledge of AI and machine learning frameworks such as PyTorch, TensorFlow, Scikit‑learn, LangChain, LlamaIndex, Hugging Face, Azure OpenAI, and Salesforce Einstein.
+* Familiarity with core development languages and tools—Python, JavaScript/Node.js, SQL, Apex, SOQL, and Lightning Web Components.
+* Strong grasp of integration patterns, APIs, and enterprise system connectivity.
+* Excellent communication, stakeholder management, and cross‑functional collaboration skills.
+
+
+**To Be Considered**
+ Click the Apply button and complete the online application process. A member of our recruiting team will review your application and follow up if you seem like a great fit for this role.
+   
+
+  
+
+ In the meantime, please check out the careers website.
+   
+
+  
+
+ And finally, the fine print….
+   
+
+  
+
+*For Kimberly\-Clark to grow and prosper, we must be an inclusive organization that applies the diverse experiences and passions of its team members to brands that make life better for people all around the world. We actively seek to build a workforce that reflects the experiences of our consumers. When you bring your original thinking to Kimberly\-Clark, you fuel the continued success of our enterprise. We are a committed equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation, gender identity, age, pregnancy, genetic information, citizenship status, or any other characteristic protected by law.*
+*The statements above are intended to describe the general nature and level of work performed by employees assigned to this classification. Statements are not intended to be construed as an exhaustive list of all duties, responsibilities and skills required for this position.*
+*Employment is subject to verification of pre\-screening tests, which may include drug screening, background check, and DMV check.*
+**Primary Location**
+ Sao Paulo Office
+   
+
+  
+
+**Additional Locations**
+**Worker Type**
+ Employee
+   
+
+  
+
+**Worker Sub\-Type**
+ Regular
+   
+
+  
+
+**Time Type**
+ Full time

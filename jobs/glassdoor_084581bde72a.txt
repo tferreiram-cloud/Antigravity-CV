@@ -1,0 +1,43 @@
+Data Quality & Governance Analyst | Mid - Compass UOL
+
+.
+
+ **Responsabilidades e atribuições**  
+
+* Atuar na evolução contínua do fluxo de Qualidade de Dados da camada Gold;
+* Garantir alinhamento das iniciativas com normativos, políticas e processos internos de dados;
+* Manter o Product Manager e o Líder Técnico atualizados sobre ajustes necessários em políticas, processos, ativos e responsabilidades;
+* Apoiar a governança e a gestão da estratégia de dados por meio dos artefatos definidos;
+* Implementar automações relacionadas à qualidade e governança de dados;
+* Elaborar relatórios, indicadores e métricas de Qualidade de Dados da camada Gold;
+* Contribuir para a melhoria contínua dos processos e maturidade em dados da organização.
+
+ **Requisitos e qualificações**  
+
+* Conhecimento em frameworks e boas práticas de Qualidade de Dados;
+* Conhecimento em frameworks e boas práticas de Governança de Dados;
+* Experiência com ferramentas de gestão de metadados, qualidade, mapeamento e catálogo de dados, preferencialmente IDMC / CDGC;
+* Conhecimento em LGPD e demais regulamentações de privacidade e proteção de dados;
+* Entendimento dos papéis e responsabilidades de Data Stewardship e Data Ownership;
+* Conhecimento em Arquitetura de Dados;
+* Conhecimento em Python e SQL;
+* Experiência com Análise Exploratória de Dados;
+* Conhecimento em conceitos de:Data Warehouse, Data Lake e Data Lakehouse
+* Experiência com Databricks;
+* Domínio de SQL.
+
+  
+
+Compass UOL is a global firm and part of the AI Revolution Company, together transforming organizations using Artificial Intelligence, Generative AI, and other of today’s most advanced technologies.
+
+  
+
+We equip our team with proprietary and external AI\-driven tools to design and build digital\-native platforms, integrating cutting\-edge technologies and enabling companies to innovate, transform their businesses, and drive success in their markets.
+
+
+To achieve this, we attract and develop the best talent, creating opportunities that enhance people’s lives and highlight the positive impact of disruptive technologies.
+
+
+We empower borderless talent and promote knowledge and opportunities in the latest market trends, driving significant personal and professional growth.
+
+**Join us and be part of the AI\-driven revolution.**

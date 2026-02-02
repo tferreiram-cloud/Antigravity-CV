@@ -1,0 +1,127 @@
+Salesforce Product Owner - Serasa
+
+Salesforce Product Owner
+
+
+Full\-time
+Employee Status: Regular
+Role Type: Hybrid
+Department: Customer Service
+Schedule: Full Time
+**Company Description**
+-----------------------
+
+
+Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realize their financial goals and help them save time and money.
+
+
+We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more industry segments.
+
+
+We invest in people and new advanced technologies to unlock the power of data. As a FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 22,500 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com.
+
+**Job Description**
+-------------------
+
+**Job description**
+
+ **Salesforce Product Owner**
+
+**The Salesforce Product Owner leads the strategy and delivery of Salesforce solutions in a regulated financial services setting. This role connects business stakeholders, technical teams, and external partners to ensure business needs are met with compliant, high\-value Salesforce features. Responsibilities include liaising with the Servicing Head of Change, Transition and Optimisation to create the continuous improvement roadmap, managing the entire product lifecycle, embedding risk and compliance, championing agile practices, and driving business benefits. Success requires deep Salesforce expertise, strong regulatory knowledge, and stakeholder engagement skills. This position offers the opportunity to shape Salesforce’s future, maximize ROI, and foster innovation across the organisation.**
+
+ **Key Responsibilities**
+
+* **Product Ownership**
+	+ Define, communicate, and maintain the Salesforce product vision, strategy, and roadmap aligned to business goals and regulatory requirements.
+	+ Prioritise backlog items based on business value, compliance, and technical feasibility.
+	+ Own the full delivery lifecycle from ideation through deployment, adoption, and benefit realisation.
+	+ Create and maintain a well\-defined product backlog, driving sprint goals and content.
+	+ Lead development and delivery of Salesforce features and enhancements, ensuring quality and business value.
+	+ Structure and lead user acceptance testing (UAT).
+	+ Participate in PI planning, negotiating requirements and priorities.
+	+ Ensure regulatory governance, embedding Consumer Duty and compliance frameworks.
+	+ Drive change continuity, aligning MI/Insight, training materials, and knowledge articles \& benefit realisation.
+* **Stakeholder Engagement**
+	+ Act as primary liaison between key stakeholders, internal teams, and 3rd party vendors.
+	+ Facilitate workshops, requirement gathering sessions, sprint reviews, and show\-and\-tells.
+	+ Translate complex financial services requirements into Salesforce solutions.
+	+ Manage stakeholder expectations and prioritise requests based on value, impact, and criticality.
+	+ Provide regular updates, reports, and summary slides for Product Manager, Head of Change, Transformation and Optimisation and QBRs.
+	+ Ensure transparent communication and accurate reporting of delivery milestones.
+	+ Engage with external Salesforce account teams, conferences, and innovation days, sharing insights with leadership.
+	+ Use escalation paths effectively to remove blockers.
+	+ Contribute to wider Product Owner community, sharing best practices and collaborating regularly.
+* **Integration \& Architecture**
+	+ Oversee integrations between Salesforce and internal systems (e.g., NICE, Zingtree, Civica).
+	+ Collaborate with architects and developers to validate technical designs.
+	+ Ensure data governance, security, and compliance with financial regulations (FCA, GDPR, etc)
+* **Delivery \& Agile Practices**
+	+ Lead backlog refinement, sprint planning, and prioritisation activities.
+	+ Ensure user stories are clear, testable, and aligned with acceptance criteria.
+	+ Drive continuous improvement in agile delivery practices.
+	+ Track and report on benefit realisation, ensuring initiatives deliver ROI.
+* **Risk \& Compliance**
+	+ Ensure Salesforce solutions meet financial services regulatory standards.
+	+ Work closely with compliance and risk teams to embed controls into product design.
+	+ Maintain audit trails and documentation for governance purposes.
+* **Change Management \& Adoption**
+	+ Support training, communication, and adoption strategies for end users.
+	+ Monitor KPIs and user feedback to drive enhancements.
+	+ Champion Salesforce best practices across the organisation.
+* **Team Collaboration**
+	+ Work closely with Salesforce developers, administrators, and other team members to ensure successful delivery.
+	+ Foster a collaborative, innovative team environment with continuous improvement and knowledge sharing.
+	+ Collaborate across regions (UK, North America, Brazil) to share ideas, best practices, and future roadmap insights.
+
+**‍ Required Skills \& Experience**
+
+* **Salesforce Expertise**
+	+ 3yrs\+ proven experience as a Salesforce Product Owner
+	+ Strong knowledge of Salesforce Service Cloud, Data Cloud, AI and automation features and integrations.
+	+ Familiarity with Apex, Lightning, and AppExchange solutions.
+* **Financial Services Knowledge**
+	+ Experience working within regulated financial services environments.
+	+ Understanding of compliance frameworks (GDPR, FCA, Consumer Duty).
+	+ Ability to balance innovation with risk management.
+* **Leadership \& Communication**
+	+ Excellent stakeholder management skills, including C\-suite engagement.
+	+ Strong facilitation, negotiation, and presentation abilities.
+	+ Ability to influence without direct authority in consultancy settings.
+* **Agile \& Delivery**
+	+ Certified Scrum Product Owner (CSPO) or equivalent preferred.
+	+ Experience with Jira, Confluence, or similar agile tools.
+	+ Track record of delivering complex Salesforce projects on time and within scope.
+**Qualifications**
+------------------
+
+**Qualifications**
+
+* MBA
+* Product Owner
+* Agile
+* Fintech
+* Credit Bureau
+* Risk \& Compliance
+**Additional Information**
+--------------------------
+
+
+Our uniqueness is that we celebrate yours. Experian's culture and people are important differentiators. We take our people agenda very seriously and focus on what matters; DEI, work/life balance, development, authenticity, collaboration, wellness, reward \& recognition, volunteering... the list goes on. Experian's people first approach is award\-winning; World's Best Workplaces™ 2024 (Fortune Top 25\), Great Place To Work™ in 24 countries, and Glassdoor Best Places to Work 2024 to name a few. Check out Experian Life on social or our Careers Site to understand why.
+
+
+Experian is proud to be an Equal Opportunity and Affirmative Action employer. Innovation is an important part of Experian's DNA and practices, and our diverse workforce drives our success. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.
+
+
+Experian Careers \- Creating a better tomorrow together
+
+**Job Location**
+----------------
+
+
+I'm interested
+
+
+Privacy Policy
+
+
+Cookies Settings

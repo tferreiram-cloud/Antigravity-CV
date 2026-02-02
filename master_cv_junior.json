@@ -1,0 +1,204 @@
+{
+    "meta": {
+        "version": "9.0-PT-BR-JUNIOR",
+        "last_updated": "2026-01-30",
+        "language": "pt-BR",
+        "purpose": "Anti-Overqualification para vagas R$8k-15k",
+        "strategy": "Foco em execução, remover termos 'Lead/Head', enfatizar hands-on"
+    },
+    "candidato": {
+        "nome_completo": "Thiago Ferreira Moraes",
+        "localizacao": {
+            "display": "Moema, São Paulo - SP"
+        },
+        "contato": {
+            "telefone": "+55 11 97625-2380",
+            "email": "t.ferreira.m@gmail.com",
+            "linkedin": "linkedin.com/in/thiagomkt"
+        },
+        "idiomas": [
+            {
+                "idioma": "Português",
+                "nivel": "Nativo"
+            },
+            {
+                "idioma": "Inglês",
+                "nivel": "Fluente"
+            },
+            {
+                "idioma": "Espanhol",
+                "nivel": "Avançado"
+            }
+        ]
+    },
+    "headlines_downgraded": {
+        "_comment": "Headlines ajustadas para não assustar vagas júnior/pleno",
+        "marketing": "Analista de Marketing Sênior | Digital | Automação | E-commerce | 10+ anos",
+        "growth": "Profissional de Growth | Digital Marketing | Performance | Analytics",
+        "content": "Analista de Conteúdo | Social Media | Campanhas | Produção",
+        "ecommerce": "Analista de E-commerce | Marketing Digital | Automação | CRM",
+        "branding": "Analista de Branding | Comunicação | Campanhas | Eventos",
+        "trafego": "Analista de Mídia | Tráfego Pago | Meta Ads | Google Ads | Performance",
+        "crm": "Analista de CRM | Automação | Email Marketing | Lifecycle",
+        "dados": "Analista de Marketing | Dados | Analytics | SQL | Dashboards"
+    },
+    "summaries_downgraded": {
+        "_comment": "Summaries que não assustam - foco em execução e ferramentas",
+        "marketing": "Profissional de Marketing Digital com 10+ anos de experiência em campanhas, automação e análise de dados. Atuação em empresas como Meta (1 ano), Ambev e varejo. Experiência prática com ferramentas de automação (HubSpot, n8n), mídia paga e analytics. Forte em execução e resultados mensuráveis.",
+        "growth": "Analista de Growth com experiência em otimização de funil, campanhas de performance e análise de dados. Vivência em tech (Meta), varejo (Fast Shop) e e-commerce. Hands-on com Meta Ads, Google Ads, e ferramentas de automação. Foco em métricas e ROI.",
+        "content": "Profissional de Conteúdo e Social Media com experiência em grandes empresas (Ambev, Meta). Coordenou campanhas virais com 10M+ impressões e parcerias com influenciadores. Experiência em planejamento editorial, produção de conteúdo e gestão de agências.",
+        "ecommerce": "Analista de E-commerce e Marketing Digital com experiência em desenvolvimento de lojas online, automação e campanhas. Track record: US$1M de receita no primeiro ano em e-commerce. Familiaridade com Shopify, Nuvemshop e integrações.",
+        "branding": "Profissional de Branding e Comunicação com formação em Neurociência aplicada ao consumidor. Experiência em campanhas de marca em Ambev e projetos de rebranding. Forte em conceito criativo e execução.",
+        "trafego": "Analista de Mídia e Tráfego Pago com experiência em Meta Ads e Google Ads. Atuação em Meta (plataforma) e agências. Foco em otimização de campanhas, ROAS e análise de performance.",
+        "crm": "Analista de CRM e Automação com experiência em HubSpot, GoHighLevel e email marketing. Construiu jornadas de lifecycle e automações para e-commerce. Foco em retenção e LTV.",
+        "dados": "Analista de Marketing com foco em dados e analytics. Experiência com SQL, dashboards e análise de campanhas. Background em áreas de marketing, CRM e performance."
+    },
+    "formacao_simplificada": [
+        {
+            "instituicao": "NEXT MBA",
+            "programa": "MBA Marketing Director",
+            "ano": "2024-2025"
+        },
+        {
+            "instituicao": "Mackenzie",
+            "programa": "Pós em Neurociência",
+            "ano": "2018-2020"
+        },
+        {
+            "instituicao": "Saint Paul",
+            "programa": "MBA Administração",
+            "ano": "2014-2016"
+        },
+        {
+            "instituicao": "ESPM",
+            "programa": "Propaganda e Marketing",
+            "ano": "2007-2011"
+        }
+    ],
+    "experiencias_downgraded": {
+        "_comment": "Experiências ajustadas: remover 'Lead', enfatizar execução, encurtar timeline",
+        "lorinz": {
+            "cargo": "Consultor de Marketing",
+            "empresa": "Lorinz Consulting",
+            "periodo": "2022 - Presente",
+            "bullets": [
+                "Implementou automações de marketing usando n8n e HubSpot, reduzindo tempo de operação em 40%.",
+                "Criou dashboards e relatórios de performance integrando CRM e analytics.",
+                "Executou campanhas de e-commerce com recuperação de 15% de carrinhos abandonados.",
+                "Desenvolveu materiais de treinamento para clientes em ferramentas de marketing."
+            ]
+        },
+        "meta": {
+            "cargo": "Analista de Marketing de Parceiros",
+            "empresa": "Meta (Facebook)",
+            "periodo": "2021 - 2022 (1 ano)",
+            "bullets": [
+                "Executou campanhas multicanal para programa de parceiros com repercussão em veículos como Meio & Mensagem.",
+                "Desenvolveu materiais de certificação e treinamento para parceiros.",
+                "Criou apresentações e dashboards para acompanhamento de performance."
+            ]
+        },
+        "telium": {
+            "cargo": "Analista de Marketing Sênior",
+            "empresa": "Telium Networks",
+            "periodo": "2020 - 2021 (1 ano)",
+            "bullets": [
+                "Implementou automação de marketing e lead scoring, aumentando conversão em 25%.",
+                "Apoiou projeto de rebranding e novo posicionamento de marca."
+            ]
+        },
+        "ambev": {
+            "cargo": "Analista de Comunicação",
+            "empresa": "Ambev",
+            "periodo": "2018 - 2019 (1,5 anos)",
+            "bullets": [
+                "Coordenou produção de campanhas internas e externas com agências.",
+                "Apoiou execução de campanha viral com 10M+ impressões e influenciadores."
+            ]
+        },
+        "fast_shop": {
+            "cargo": "Analista de Trade Marketing",
+            "empresa": "Fast Shop",
+            "periodo": "2017 - 2018 (1 ano)",
+            "bullets": [
+                "Gerenciou ações promocionais para marcas líderes (Samsung, Apple, LG) em 100+ lojas."
+            ]
+        },
+        "bendito_grao": {
+            "cargo": "Analista de Marketing",
+            "empresa": "Bendito Grão",
+            "periodo": "2015 - 2017",
+            "bullets": [
+                "Desenvolveu e-commerce do zero, gerando R$5M em receita no primeiro ano.",
+                "Executou estratégias de posicionamento e campanhas online."
+            ]
+        }
+    },
+    "skills_simplified": {
+        "ferramentas": [
+            "HubSpot",
+            "Meta Ads",
+            "Google Ads",
+            "GA4",
+            "n8n",
+            "Make",
+            "Canva",
+            "Figma"
+        ],
+        "tecnico": [
+            "SQL básico",
+            "Excel avançado",
+            "Dashboards",
+            "CRM"
+        ],
+        "marketing": [
+            "Campanhas",
+            "Automação",
+            "E-commerce",
+            "Performance",
+            "Conteúdo"
+        ],
+        "soft": [
+            "Organização",
+            "Comunicação",
+            "Trabalho em equipe",
+            "Proatividade"
+        ]
+    },
+    "regras_anti_overqualification": {
+        "nao_usar": [
+            "Lead",
+            "Head",
+            "Diretor",
+            "C-level",
+            "Ecossistema",
+            "Continental",
+            "Global",
+            "Arquitetou",
+            "Definiu estratégia",
+            "15+ anos",
+            "Multi-região",
+            "Stakeholder Management"
+        ],
+        "usar": [
+            "Executou",
+            "Implementou",
+            "Criou",
+            "Desenvolveu",
+            "Apoiou",
+            "Coordenou",
+            "Analista",
+            "Sênior",
+            "10+ anos",
+            "Prático",
+            "Hands-on"
+        ],
+        "esconder": [
+            "USP (em andamento) - pode parecer muito acadêmico",
+            "FAPCOM/IJEP - nicado demais",
+            "Miami Ad School - contextual",
+            "Dow, Suzano, TransPerfect - podem alongar demais o CV"
+        ],
+        "timeline": "Mostrar apenas 2017 em diante (7 anos), encurtar experiências antigas"
+    }
+}

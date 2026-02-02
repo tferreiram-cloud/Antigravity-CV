@@ -1,0 +1,145 @@
+Pessoa Desenvolvedora Full Stack - GOPWR
+
+**O que você precisa saber para vir com a gente neste desafio?**
+
+  
+
+**O que oferecemos:**
+
+
+**Cultura:**
+
+Bastante calor humano e cuidado com nossos Huggers;  
+
+Ambiente de muita colaboratividade e crescimento;  
+
+Aqui valorizamos a criatividade e inovação;  
+
+Valorizamos o trabalho em equipe e a solicitude.
+
+
+**Benefícios:**
+
+
+
+✈️ Trabalho 100 % Remoto \- Anywere office e First remoto  
+
+Vale\-Alimentação creditados no Cartão Caju  
+
+Plano de saúde Bradesco Top Nacional (após período de experiência)  
+
+Plano Odontológico Nacional (após período de experiência)  
+
+Auxílio home office  
+
+Auxílio Tech  
+
+Day\-off no Aniversário  
+
+Licença maternidade estendida  
+
+Convênio com o SESC e muito mais!
+
+
+
+E muito mais!
+
+
+
+Mimos celebrativos: Baby Gift, presente de casamento e \+  
+
+️ GoMove: Projeto de saúde e competições com prêmios  
+
+️ Huggy Fluency: Auxílio para estudo de idiomas (mediante inscrição)  
+
+Huggy Academy: Aulas gravadas pelos Huggers especialistas  
+
+Huggy Boosting: Patrocínio para projetos pessoais  
+
+Forte Gestão de pessoas, mesmo distantes geograficamente :)
+
+
+**O que buscamos?**
+
+
+
+Buscamos uma pessoa **Desenvolvedora Full\-Stack** que atue com **autonomia, responsabilidade e visão de produto**, capaz de desenvolver soluções web completas — do frontend ao backend — e que saiba **comunicar decisões técnicas de forma clara** com diferentes áreas da empresa.
+
+
+
+Procuramos alguém que:
+
+
+* Tenha **senso de dono** sobre o que entra em produção
+* Saiba **negociar prazos com maturidade**, respeitando acordos e sinalizando riscos
+* Trabalhe bem de forma autogerenciada, sem necessidade de microgestão
+* Tenha abertura para feedbacks e esteja em constante evolução técnica
+
+Aqui, você terá espaço para **opinar, propor melhorias e evoluir a arquitetura**, sempre equilibrando qualidade técnica, performance e entrega de valor ao negócio.
+
+
+**O que acreditamos?**
+
+
+
+Acreditamos em **autonomia com responsabilidade**, comunicação clara entre áreas e **qualidade técnica como base do produto**. Valorizamos colaboração, feedback constante e evolução contínua, sempre com foco em entregar valor real ao negócio e às pessoas usuárias.om a gente!
+
+
+**O que esperamos de você:**
+
+
+* Desenvolver, evoluir e manter **aplicações web full\-stack**, atuando em frontend e backend
+* Traduzir requisitos de produto e design (ex.: Figma) em **código funcional, escalável e manutenível**
+* Implementar funcionalidades **end\-to\-end**, garantindo qualidade desde a escrita do código até a entrada em produção
+* Criar e manter **APIs RESTful**, implementando regras de negócio e integrações com sistemas internos e de terceiros
+* Modelar e otimizar bancos de dados relacionais e não relacionais, garantindo **performance e integridade dos dados**
+* Escrever e manter **testes automatizados** (unitários e de integração)
+* Identificar, diagnosticar e corrigir bugs, gargalos de performance e problemas em produção
+* Participar ativamente de **code reviews**, contribuindo para a qualidade e padronização do código
+* Comunicar decisões técnicas, riscos e soluções de forma clara para **áreas técnicas e não técnicas**
+* Negociar prazos quando necessário, com base em critérios técnicos, e **cumprir os prazos acordados**
+* Colaborar com designers, product managers e outros desenvolvedores em rituais ágeis
+* Propor melhorias técnicas, refatorações e evoluções de arquitetura quando fizer sentido
+  
+
+
+  
+
+**Vai ser muito bom se você tiver:**
+
+
+* Experiência sólida com **JavaScript** e frameworks frontend como **Vue.js, React.js ou Nuxt**
+* Vivência com **PHP/Laravel e/ou Node.js** no desenvolvimento de APIs REST
+* Experiência com **SPA (Single Page Applications)**
+* Conhecimento em **autenticação e segurança** (JWT, OAuth, boas práticas OWASP)
+* Boa base em **bancos de dados relacionais** (MySQL, PostgreSQL) e uso de **Redis**
+* Prática com **Git/GitHub** e processos de code review
+* Experiência com **testes automatizados** (Cypress, Jest, PHPUnit)
+* Vivência com **monitoramento de aplicações** (Sentry, New Relic ou similares)
+* Familiaridade com **Docker, CI/CD e ambientes em cloud (AWS)**
+* Capacidade de **explicar conceitos técnicos de forma simples** para outras áreas
+* Inglês técnico para leitura, escrita e comunicação
+* Perfil colaborativo, com **boa coachability** e abertura para feedbacks
+* Experiência ou interesse em **arquitetura de software**, microsserviços e boas práticas
+
+  
+
+
+
+
+**São diferenciais**
+
+
+* Experiência com **microsserviços** ou sistemas distribuídos
+* Vivência em **produtos SaaS** ou aplicações de alta escala
+* Conhecimento em **AWS, Docker e CI/CD**
+* Atuação em decisões de **arquitetura** ou mentoria técnica
+* Experiência com **performance, monitoramento e escalabilidade**
+* Inglês avançado para comunicação técnica
+
+  
+
+
+
+
+**E aí, deu match? Esperamos por você!!**

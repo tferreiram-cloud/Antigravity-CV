@@ -1,0 +1,78 @@
+Pessoa Desenvolvedora Fullstack PL (Remoto) - 1943 - Starian
+
+Somos um grupo que desenvolve e incorpora **soluções SaaS** (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: **Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance**.  
+
+
+
+  
+
+Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos.
+
+  
+
+Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro.
+
+  
+
+Essa vaga é para atuar no produto **Prevision**.
+
+ **Responsabilidades e atribuições**  
+
+* Desenvolver e manter soluções de alta complexidade em **VueJS,** **Ruby on Rails** e **Go**, participando desde a concepção e arquitetura até a implantação e manutenção, garantindo performance, escalabilidade e a aplicação de princípios como **Clean Code** e **Design Patterns;**
+* Trabalhar com autonomia no planejamento e execução de projetos, propor melhorias contínuas nos processos de desenvolvimento, e **colaborar ativamente** com Product Managers e Designers na definição e priorização de funcionalidades;
+* Participar ativamente das **cerimônias ágeis** do time, mantendo comunicação clara e assertiva com stakeholders e áreas adjacentes para contribuir com a remoção de impedimentos e garantir o alinhamento técnico das entregas;
+* Mentalidade digital, curiosidade por novas tecnologias e interesse em entender como a Inteligência Artificial pode transformar processos, experiências e resultados.
+
+  
+
+**Requisitos e qualificações**  
+
+* Domínio e experiência comprovada no desenvolvimento de aplicações complexas utilizando **Vue****JS** (ou frameworks frontend como React ou Angular), **Ruby on Rails** ou **Go**, incluindo a construção e consumo de APIs;
+* Sólida vivência na aplicação de princípios de **Clean Code**, **Design Patterns** (SOLID, etc.), e boas práticas de arquitetura de software para garantir a manutenibilidade, testabilidade e escalabilidade das soluções;
+* Proficiência em metodologias de desenvolvimento orientado a testes (**TDD/BDD**), com experiência na criação e manutenção de suítes de testes automatizados (unitários, integração, etc.) e em estratégias de qualidade de software;
+* Vivência consolidada em metodologias ágeis (Scrum/Kanban), com boas habilidades de comunicação, colaboração em equipes multidisciplinares, capacidade de resolução de problemas complexos e mentoria técnica de desenvolvedores menos experientes;
+* Conhecimento ou interesse em tecnologias de Inteligência Artificial: ferramentas, aplicações e conceitos.
+
+  
+
+**Informações adicionais** **Modelo de trabalho:** Anywhere Office \- 100% remoto.
+
+ **Benefícios:**
+
+  
+
+* Vale\-alimentação/Vale\-refeição;
+* Plano de saúde e odontológico;
+* Auxílio Home Office;
+* Participação nos Lucros e Resultados;
+* Voucher para Kit Setup;
+* Seguro de vida;
+* Day Off aniversário;
+* GoGood \| Nav;
+* Programa de promoção à saúde e bem\-estar;
+Parcerias e descontos.  
+* 
+
+  
+
+Um dos nossos pilares é a valorização das pessoas e temos orgulho de dizer que somos uma empresa que apoia a diversidade e inclusão. Sendo assim, consideramos todos os candidatos para as nossas vagas, sem distinção de raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.  
+
+
+
+  
+
+  
+
+Somos uma empresa que desenvolve e incorpora **soluções SaaS** (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: **Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance.**
+
+  
+
+Nascemos do legado pioneiro do Grupo Softplan e atuamos focados no mercado privado, com soluções líderes, times especialistas e uma visão estratégica que nos posiciona como referência.
+
+  
+
+A inteligência artificial é parte da nossa essência. Atuamos guiados por uma cultura que valoriza **protagonismo, conexão, empatia, dinamismo e pensamento estratégico**, promovendo um ambiente de colaboração, aprendizado contínuo e foco em resultados.
+
+  
+
+Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro.

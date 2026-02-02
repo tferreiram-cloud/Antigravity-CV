@@ -1,0 +1,88 @@
+Lead Engineer (Up to 9,000 USD/month) - LawnStarter
+
+**Engineering Lead**
+
+
+We’re urgently hiring a **Engineering Lead** to join our growing remote team.  
+
+
+
+  
+
+**Help Us Build the Future of Outdoor Services**
+
+
+At LawnStarter, we’re transforming the $100B\+ outdoor home services industry—making it easier for homeowners to book, manage, and enjoy services like lawn care, landscaping, and more. With $30M\+ in venture funding and solid traction, we’re investing in the next generation of our platform—and we’re looking for an **Engineering Lead** to help drive it.
+
+
+ See what we’re building
+
+
+**Why This Role Rocks**
+
+* **Own What You Build** – Lead projects end\-to\-end with full autonomy and real impact.
+* **Remote \& Flexible** – Work from anywhere and set your own hours.
+* **Build Meaningful Tech** – Help shape the tools that thousands of homeowners and service pros rely on daily.
+* **Join at the Right Time** – We have strong product\-market fit and real momentum—you’ll help define what comes next.
+
+### **Our Tech Stack**
+
+* **Frontend:** React, React Native, TypeScript
+* **Backend**: PHP (Laravel), Node.js
+* **Infrastructure**: AWS, Kubernetes, Terraform
+* Data: MySQL, PostgreSQL, Redis, Redshift
+* Observability: Datadog, Sentry
+
+### **What You’ll Do**
+
+
+As an **Engineering Lead** you'll take ownership of major projects, collaborate with product and design teams, and lead by doing. You’ll write production code, influence architectural decisions, and mentor other engineers as we grow.
+
+**A day in the life might include:**
+
+* Scoping a new customer feature with the product team
+* Pairing with another engineer on a tricky bug
+* Reviewing PRs and sharing feedback
+* Building out a scalable backend service or dashboard
+
+Deploying to production and monitoring performance  
+* 
+
+**You’ll also:**
+
+* Lead technical initiatives from design to delivery
+* Drive architectural decisions and best practices
+* Tackle performance and scalability challenges
+* Guide and mentor other developers
+
+Collaborate across teams to ship fast and iterate quickly  
+* 
+
+**Requirements**
+
+### **What We’re Looking For**
+
+* 6\+ years of professional software development experience, with at least 2 years in a lead or senior\-level role
+* Strong full\-stack skills (we’re flexible on exact languages/frameworks)
+* A deep understanding of software design, performance optimization, and testing
+* Comfort navigating across frontend, backend, and infrastructure
+* Solid database skills (SQL \+ familiarity with non\-relational systems)
+* Great communication skills and the ability to work independently
+* A collaborative, humble approach—you value the team as much as the tech
+* Bonus points for experience in marketplaces, SaaS platforms, or remote teams.
+
+**VERY IMPORTANT REMINDER: Please upload your English resume—applications without it will not be considered.**
+
+**Benefits**
+
+
+* Perks of Working with Us
+* + Competitive contract rate at 90K\- 110K USD annually depending on skills and experience
+	+ Work from anywhere
+	+ Flexible hours—get the work done on your schedule
+	+ High ownership and autonomy
+	+ Fast\-moving team that loves to build, learn, and grow
+
+**LawnStarter is building the future of outdoor home services. Want to help us shape it?**  
+
+**Apply now and let’s grow together.**

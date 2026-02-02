@@ -1,0 +1,81 @@
+Product Mananger Sênior - Digital Acquisition (Nike Brasil) - Grupo SBF
+
+**Prazer, Grupo SBF.**
+
+
+Para nós, esporte é mais que só a prática: é movimento. Ele tem o poder de mover as pessoas pelo exercício, pela paixão pelo time do coração, pela diversão de uma aula de dança, pela força de marcas icônicas. Por vermos a potência do esporte em todas as suas expressões, trabalhamos juntos com garra e energia para construir o primeiro ecossistema de esporte do mundo, reunindo diversas possibilidades para que as pessoas sejam envolvidas e impactadas pelo poder de se movimentar. Quando você pensar em esporte, pode ter certeza: o Grupo SBF estará ali. Seja por meio das lojas e do e\-commerce da Centauro, a maior varejista esportiva multimarcas da América Latina; da Fisia, distribuidora oficial da Nike no Brasil, da FitDance e da OneFan, aqui o movimento não para. Praticante ou entusiasta, fã ou apaixonado: o Grupo SBF é pra você. Somos saudavelmente inconformados, fazedores e convictos da importância de levar o movimento para cada vez mais gente. Se você se move por esporte, ou é movido por ele, temos um convite: que tal também trabalhar por ele?Ficou interessado(a)? Vem saber mais!
+
+ **Responsabilidades e atribuições** **Senior Product Manager – Digital Acquisition (Nike Brasil \| Grupo SBF)**
+
+ **Seu Desafio**
+
+
+Não buscamos um "piloto de backlog", mas um PM com olhar empreendedor e profundidade no negócio. Você será o responsável por liderar a estratégia de Digital Acquisition do site e app da Nike no Brasil, legal, né?
+
+
+Sua missão é clara: atrair novos usuários, dominar a busca orgânica e transformar a experiência de descoberta de produtos em uma máquina de crescimento sustentável.
+
+  
+
+Aqui, Produto \= Negócio. Você terá autonomia para executar o que acredita, desde que suas convicções sejam embasadas por dados, pensamento crítico e uma visão profunda do mercado de varejo.
+
+ **O que você vai fazer**
+
+
+Atrair pessoas e torná\-las usuárias recorrentes através de:
+
+* Domínio de SEO \& Discovery: Liderar SEO técnico (indexabilidade, performance, arquitetura de URLs) e evoluir a encontrabilidade (Busca, Filtros, Grids e Menus).
+* Playbook de Growth: Priorizar iniciativas de alto impacto como "Avise\-me", Web/App Pushes e Growth Loops.
+* Influência e Educação: Atuar como um agente que eleva a maturidade digital da organização, traduzindo desafios de negócio em soluções tecnológicas escaláveis.
+
+ **Requisitos e qualificações** **O Perfil que buscamos**
+
+
+1\. Visão de Negócio \& Estratégia: Você mergulha no segmento, entende de marketing, economia e negociação. Consegue encontrar brechas no mercado e transformá\-las em vantagem competitiva.
+
+
+2\. Capacidade Analítica "Data\-Informed": Saber dizer "não" é sua maior ferramenta de priorização. Você usa dados (quant e quali) para convencer, inferir o tamanho de oportunidades e validar hipóteses.
+
+
+3\. Execução e Senso de Urgência: O varejo não espera. Precisamos de maestria na execução, foco e dedicação. Aqui, trabalhamos com velocidade, inteligência e sem acomodação.
+
+
+4\. Mentalidade AI Native: Você utiliza IA como ferramenta fundamental no dia a dia — seja para acelerar análises, escrever queries no BigQuery ou estruturar narrativas.
+
+
+5\. Articulação Cross\-functional: Constrói relacionamentos sólidos com Engenharia, Design e Mídia, movimentando pessoas em prol de uma visão comum.
+
+ **Requisitos**
+
+* Sólida experiência como PM Sênior, preferencialmente em Growth ou Aquisição Digital.
+* Conhecimento técnico e estratégico em SEO, navegação e experiência de busca.
+* Familiaridade com o stack de dados: GA4, Search Console e SQL (BigQuery).
+* Habilidade de validação ágil: Saber gerar valor desde o "dia zero", validando ideias de forma rápida (muitas vezes sem código).
+
+ **KPIs: O que define o seu sucesso?**
+
+* Receita incremental atribuída à aquisição.
+* Qualidade de visualização de Grid e PDP.
+* Volume e conversão de sessões orgânicas.
+* Retenção de tráfego (Return Visitors).
+
+ **Informações adicionais** **Por que essa vaga?**
+
+
+Se você tem senso de ownership, não se contenta com o básico e quer liderar o digital da maior marca esportiva do mundo dentro de um ambiente de varejo competitivo e dinâmico, seu lugar é aqui.
+
+  
+
+Para nós, esporte é mais que só a prática: é movimento. Ele tem o poder de mover as pessoas pelo exercício, pela paixão pelo time do coração, pela diversão de uma aula de dança, pela força de marcas icônicas.
+
+  
+
+Por vermos a potência do esporte em todas as suas expressões, trabalhamos juntos com garra e energia para construir o primeiro ecossistema de esporte do mundo, reunindo diversas possibilidades para que as pessoas sejam envolvidas e impactadas pelo poder de se movimentar.
+
+  
+
+Quando você pensar em esporte, pode ter certeza: o Grupo SBF estará ali. Seja por meio das lojas e do e\-commerce da Centauro, a maior varejista esportiva multimarcas da América Latina, ou da Fisia, distribuidora oficial da Nike no Brasil, aqui o movimento não para.
+
+  
+
+Praticante ou entusiasta, fã ou apaixonado: o Grupo SBF é pra você. Somos saudavelmente inconformados, fazedores e convictos da importância de levar o movimento para cada vez mais gente.

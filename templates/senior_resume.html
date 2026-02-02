@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ nome }} - Senior Professional Resume</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        @page {
+            size: A4;
+            margin: 10mm 12mm;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            font-size: 9.5px;
+            line-height: 1.45;
+            color: #1a1a1a;
+            background: #ffffff;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .resume {
+            max-width: 210mm;
+            margin: 0 auto;
+        }
+
+        /* ============ HEADER ============ */
+        .header {
+            text-align: center;
+            padding-bottom: 12px;
+            margin-bottom: 12px;
+            border-bottom: 2px solid #1a365d;
+        }
+
+        .header h1 {
+            font-family: 'Crimson Pro', Georgia, serif;
+            font-size: 28px;
+            font-weight: 600;
+            color: #1a365d;
+            letter-spacing: 1px;
+            margin-bottom: 4px;
+        }
+
+        .header .headline {
+            font-size: 12px;
+            font-weight: 500;
+            color: #2d3748;
+            margin-bottom: 6px;
+        }
+
+        .header .contact {
+            font-size: 9px;
+            color: #4a5568;
+        }
+
+        .header .contact a {
+            color: #1a365d;
+            text-decoration: none;
+        }
+
+        .header .contact span {
+            margin: 0 8px;
+        }
+
+        /* ============ SUMMARY ============ */
+        .summary {
+            padding: 10px 12px;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+            border-left: 3px solid #1a365d;
+        }
+
+        .summary p {
+            font-size: 10px;
+            color: #2d3748;
+            line-height: 1.5;
+            text-align: justify;
+        }
+
+        .summary .keywords {
+            margin-top: 6px;
+            font-size: 8.5px;
+            color: #4a5568;
+        }
+
+        .summary .keywords strong {
+            color: #1a365d;
+        }
+
+        /* ============ SECTIONS ============ */
+        .section {
+            margin-bottom: 10px;
+        }
+
+        .section-title {
+            font-size: 11px;
+            font-weight: 700;
+            color: #1a365d;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            padding-bottom: 3px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #cbd5e0;
+        }
+
+        /* ============ EXPERIENCE ============ */
+        .experience-item {
+            margin-bottom: 10px;
+            page-break-inside: avoid;
+        }
+
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 2px;
+        }
+
+        .experience-header h3 {
+            font-size: 11px;
+            font-weight: 700;
+            color: #1a365d;
+        }
+
+        .experience-header .period {
+            font-size: 9px;
+            color: #718096;
+            font-weight: 500;
+        }
+
+        .experience-subheader {
+            display: flex;
+            justify-content: space-between;
+            font-size: 9px;
+            color: #4a5568;
+            margin-bottom: 4px;
+        }
+
+        .experience-subheader .title {
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .experience-subheader .location {
+            font-style: italic;
+        }
+
+        .experience-scope {
+            font-size: 8.5px;
+            color: #718096;
+            font-style: italic;
+            margin-bottom: 4px;
+        }
+
+        .experience-bullets {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .experience-bullets li {
+            position: relative;
+            font-size: 9px;
+            color: #2d3748;
+            margin-bottom: 3px;
+            padding-left: 12px;
+            line-height: 1.4;
+            text-align: justify;
+        }
+
+        .experience-bullets li::before {
+            content: "▪";
+            position: absolute;
+            left: 0;
+            color: #1a365d;
+            font-size: 8px;
+        }
+
+        .metric {
+            font-weight: 700;
+            color: #1a365d;
+        }
+
+        .keyword {
+            background: #edf2f7;
+            padding: 0 3px;
+            border-radius: 2px;
+            font-weight: 500;
+        }
+
+        .tech-stack {
+            font-size: 8px;
+            color: #4a5568;
+            margin-top: 3px;
+            font-style: italic;
+        }
+
+        /* ============ PROJECTS ============ */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+
+        .project-item {
+            padding: 6px 8px;
+            background: #f7fafc;
+            border-left: 2px solid #1a365d;
+        }
+
+        .project-item h4 {
+            font-size: 9px;
+            font-weight: 600;
+            color: #1a365d;
+            margin-bottom: 2px;
+        }
+
+        .project-item p {
+            font-size: 8px;
+            color: #4a5568;
+            line-height: 1.35;
+        }
+
+        .project-item .stack {
+            font-size: 7.5px;
+            color: #718096;
+            margin-top: 2px;
+        }
+
+        /* ============ SKILLS ============ */
+        .skills-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .skill-group {
+            flex: 1;
+            min-width: 120px;
+        }
+
+        .skill-group h4 {
+            font-size: 8.5px;
+            font-weight: 600;
+            color: #4a5568;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 3px;
+        }
+
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3px;
+        }
+
+        .skill-tag {
+            font-size: 8px;
+            padding: 2px 5px;
+            background: #edf2f7;
+            color: #2d3748;
+            border-radius: 2px;
+        }
+
+        .skill-tag.primary {
+            background: #1a365d;
+            color: #ffffff;
+        }
+
+        /* ============ EDUCATION ============ */
+        .education-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
+
+        .education-item h4 {
+            font-size: 9.5px;
+            font-weight: 600;
+            color: #1a365d;
+        }
+
+        .education-item .institution {
+            font-size: 9px;
+            color: #2d3748;
+        }
+
+        .education-item .details {
+            font-size: 8px;
+            color: #718096;
+        }
+
+        /* ============ FOOTER ============ */
+        .languages {
+            display: flex;
+            gap: 20px;
+            font-size: 9px;
+        }
+
+        .languages strong {
+            color: #1a365d;
+        }
+
+        /* ============ PRINT ============ */
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="resume">
+        <!-- HEADER -->
+        <header class="header">
+            <h1>{{ nome }}</h1>
+            <div class="headline">{{ headline }}</div>
+            <div class="contact">
+                {{ email }} <span>|</span>
+                <a href="https://{{ linkedin }}">{{ linkedin }}</a> <span>|</span>
+                {{ location }}
+            </div>
+        </header>
+
+        <!-- SUMMARY -->
+        <section class="summary">
+            <p>{{ summary }}</p>
+            {% if keywords %}
+            <div class="keywords">
+                <strong>Core Expertise:</strong> {{ keywords }}
+            </div>
+            {% endif %}
+        </section>
+
+        <!-- EXPERIENCE -->
+        <section class="section">
+            <h2 class="section-title">Professional Experience</h2>
+
+            {% for exp in experience %}
+            <div class="experience-item">
+                <div class="experience-header">
+                    <h3>{{ exp.empresa }}</h3>
+                    <span class="period">{{ exp.periodo }}</span>
+                </div>
+                <div class="experience-subheader">
+                    <span class="title">{{ exp.cargo }}</span>
+                    <span class="location">{{ exp.localizacao }}</span>
+                </div>
+                {% if exp.escopo %}
+                <div class="experience-scope">{{ exp.escopo }}</div>
+                {% endif %}
+                <ul class="experience-bullets">
+                    {% for bullet in exp.bullets %}
+                    <li>{{ bullet | safe }}</li>
+                    {% endfor %}
+                </ul>
+                {% if exp.stack %}
+                <div class="tech-stack">Technologies: {{ exp.stack }}</div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </section>
+
+        <!-- AI PROJECTS -->
+        {% if projects %}
+        <section class="section">
+            <h2 class="section-title">AI & Automation Projects</h2>
+            <div class="projects-grid">
+                {% for proj in projects %}
+                <div class="project-item">
+                    <h4>{{ proj.nome }}</h4>
+                    <p>{{ proj.descricao }}</p>
+                    <div class="stack">{{ proj.stack }}</div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
+
+        <!-- SKILLS -->
+        <section class="section">
+            <h2 class="section-title">Technical Skills & Competencies</h2>
+            <div class="skills-container">
+                {% for group in skills %}
+                <div class="skill-group">
+                    <h4>{{ group.name }}</h4>
+                    <div class="skill-tags">
+                        {% for skill in group.skills_list %}
+                        <span class="skill-tag {% if skill.primary %}primary{% endif %}">{{ skill.name }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- EDUCATION -->
+        <section class="section">
+            <h2 class="section-title">Education</h2>
+            <div class="education-grid">
+                {% for edu in education %}
+                <div class="education-item">
+                    <h4>{{ edu.programa }}</h4>
+                    <div class="institution">{{ edu.instituicao }}</div>
+                    <div class="details">{{ edu.ano }}{% if edu.destaque %} • {{ edu.destaque }}{% endif %}</div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- LANGUAGES -->
+        <section class="section">
+            <h2 class="section-title">Languages</h2>
+            <div class="languages">
+                {% for lang in languages %}
+                <span><strong>{{ lang.idioma }}:</strong> {{ lang.nivel }}{% if lang.certificacao %} ({{
+                    lang.certificacao }}){% endif %}</span>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

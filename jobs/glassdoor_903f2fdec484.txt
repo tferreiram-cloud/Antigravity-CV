@@ -1,0 +1,58 @@
+Dev Backend Pleno - Petlove
+
+Somos uma empresa de tecnologia movida por nossa paixão por animais de estimação!
+
+
+Nosso trabalho diário é tornar a vida dos pais dos animais de estimação mais fácil por meio de uma experiência única de aprender, fazer compras e consumir o que eles precisam, a qualquer hora. Sempre centrado no que é melhor para a felicidade e saúde dos animais de estimação.
+
+
+A Petlove já é a maior empresa de tecnologia na indústria pet do Brasil. Recentemente, adicionamos ao nosso portfólio empresas estratégicas como DogHero, VetSmart, Vetus e Porto.pet para animais de estimação, a fim de perseguir nossa visão de criar o maior ecossistema de animais de estimação do Brasil.
+
+
+Temos muito orgulho de já ter atendido mais de 5 milhões de clientes em todo o país, mas ainda estamos famintos pelo que vem por aí (o Brasil tem mais de 48 milhões de domicílios com animais de estimação). Se você está procurando uma oportunidade única na vida, adora tecnologia e é realmente apaixonado por animais de estimação, somos perfeitos um para o outro!
+
+#### **Principais Atividades:**
+
+* Atuação em uma squad com foco nos sistemas que atendem toda a companhia.
+* Trabalhar em equipe multidisciplinar, usando metodologia ágil para criação e evolução de produtos;
+* Entender os objetivos do negócio e transformá\-los em soluções sistêmicas;
+* Estimar o esforço necessário para o desenvolvimento do sistema;
+* Realizar revisão de código para garantir que respeitam as boas práticas de programação.
+* Escrever código limpo, reutilizável e de fácil manutenção;
+* Implementar testes unitários e de integração para garantir a qualidade do código desenvolvido;
+* Ajudar a criar arquiteturas escaláveis;
+* Se responsabilizar pelo desenvolvimento, deploy, documentação e monitoramento dos sistemas;
+
+#### **Responsabilidades:**
+
+* Desenvolver e manter fluxos de IA usando **LangGraph** e **LangChain**.
+* Escrever e manter código em **Python**, com foco em integrações com modelos de linguagem (LLMs).
+* Participar do design e implementação de agentes
+* Trabalhar em conjunto com engenheiros de software, cientistas de dados e product managers.
+* Colaborar na documentação e testes de fluxos de IA.
+
+#### **Requisitos:**
+
+* Conhecimento em **Python** (sintaxe, estruturas de dados, boas práticas).
+* Noções básicas de **APIs REST** e estruturas de dados em JSON.
+* Conhecer conceitos de **IA generativa** e LLMs.
+* Experiência com **LangGraph**, **LangChain**, **OpenAI API**, ou similares.
+* Experiência com versionamento (Git) e observabilidade (honey bagder, datadog)
+
+  
+
+Somos o maior ecossistema pet do Brasil, unidos por um propósito: transformar o mundo em um lugar onde os pets sejam mais felizes e saudáveis. Pioneiros no digital, oferecemos tudo o que o seu pet precisa, em um só lugar: e\-commerce, app, lojas físicas, planos de saúde pet, creche, hospedagem e muito mais! Estamos sempre inovando com tecnologias que empoderam médicos veterinários e contamos com a maior referência em diagnósticos rápidos e de alta qualidade.
+
+
+E você, vem fazer parte dessa missão com a gente?
+
+**Nosso jeito de trabalhar**  
+
+Na Petlove nós somos apaixonados por pets e por pessoas. Por isso, buscamos garantir que somos inclusivos e formamos times diversos, sempre procurando refletir em nossas decisões nosso compromisso com esse tema! Consideramos enriquecedor contratar pessoas com deficiência, de gêneros e orientação sexual diversas, incluindo todas as etnias e religiões, além de todas as idades e demais marcadores de identidade. Temos certeza que só assim formaremos times inconformados, ágeis e comprometidos com o nosso propósito.  
+
+Se identificou? Então vem com a gente!  
+
+Onde tem pet, tem love — só falta você!
+
+
+Quer saber mais sobre a Petlove e nossos benefícios? Não perca a chance de conferir nossa página de carreiras: https://petlove.jobs.recrut.ai/

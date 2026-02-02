@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(ollama list:*)",
+      "Bash(osascript:*)",
+      "Bash(open:*)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(python -c:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

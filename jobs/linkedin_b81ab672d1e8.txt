@@ -1,0 +1,53 @@
+COORDENADOR DE MODELAGEM - Quod
+
+Estamos buscando um(a)
+ **Coordenador(a) de Analytics em Recuperação de Crédito** 
+ para liderar iniciativas estratégicas baseadas em dados, garantindo a gestão eficiente dos projetos analíticos, a supervisão técnica da equipe e a entrega de soluções que gerem impacto real no negócio. Essa pessoa atuará de forma transversal, conectando áreas, estruturando análises e direcionando o time para que os projetos sejam entregues com qualidade, dentro dos prazos e alinhados aos objetivos corporativos.
+   
+
+  
+
+**Responsabilidades e atribuições**
+**Responsabilidades e Atribuições**
+* Liderar o time de Analytics, garantindo orientação técnica, priorização e suporte contínuo.
+* Planejar, coordenar e acompanhar o ciclo completo dos projetos: entendimento da demanda, desenho de solução, execução, validação e apresentação de resultados.
+* Assegurar a qualidade das análises, modelos e estudos entregues pelo time.
+* Atuar como facilitador(a) entre áreas de negócio, tecnologia e produto, traduzindo necessidades em soluções analíticas.
+* Garantir boas práticas de governança de modelos e projetos, garantindo versionamento, documentação e reprodutibilidade.
+* Propor melhorias e fortalecer a cultura data\-driven dentro da empresa.
+* Participar de decisões estratégicas que envolvam uso de dados e apoiar a evolução técnica do time.
+
+
+**Requisitos e qualificações**
+**Requisitos e Qualificações**
+**Ferramentas e Tecnologias:**
+* Ferramentas de análise: Python ou R.
+* Conhecimento em pipelines e versionamento (Git).
+* Familiaridade com ambientes cloud (Azure, AWS, GCP).
+
+
+**Habilidades Comportamentais:**
+* Liderança colaborativa e habilidade de desenvolver pessoas.
+* Boa comunicação e capacidade de traduzir temas complexos com clareza.
+* Pensamento analítico, visão sistêmica e foco em resolução de problemas.
+* Organização, gestão de prioridades e capacidade de trabalhar sob múltiplas demandas.
+
+
+**Formação e Certificações:**
+* Graduação em Estatística, Engenharia, Ciência de Dados, Economia, Matemática, Computação ou áreas afins.
+* Pós\-graduação e certificações em Analytics, Data Science, Gestão de Projetos ou Cloud são diferenciais.
+
+
+**Informações adicionais**
+* Nossos benefícios: Cuidamos bem dos nossos Quoders, então oferecemos um pacote completo de benefícios:
+* Alimentação, aqui temos VR e VA, flexível, você pode dividir como quiser;
+* Saúde: temos Assistência Médica Bradesco extensível a dependentes , com coparticipação;
+* Assistência Odontológica MetLife;
+* Pensando no seu bem\-estar também oferecemos Auxílio Academia;
+* Auxílio Creche para crianças de até 2 anos de idade;
+* Seguro de Vida;
+* PLR Anual que é pago conforme atingimento das metas estabelecidas;
+* Para os Quoders que estão em modelo de trabalho Híbrido oferecemos Auxílio Mobilidade (estacionamento e gasolina), e para quem está remoto temos o Auxílio home office;
+* Pensando no seu futuro oferecemos a Previdência Privada, para que você guarde seu dinheiro com segurança;
+* E para o seu Desenvolvimento temos a UniQuod com cursos incríveis, além das parcerias com várias instituições de ensino;
+* Quer ser um Quoder? Então se candidate a nossas vagas e venha fazer parte desse time inovador!

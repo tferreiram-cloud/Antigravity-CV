@@ -1,0 +1,119 @@
+Tech Lead - Segurança da Informação (Automation) - Banco Bradesco SA
+
+**Sobre o Bradesco**
+
+
+O Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!
+
+
+No Bradesco valorizamos a diversidade em todas as suas formas. Por isso, as nossas vagas são abertas a todas as pessoas, independentemente de gênero, raça, orientação sexual, deficiência, idade ou qualquer outra característica.
+
+
+Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtm
+
+
+**Responsabilidades e atribuições**
+
+
+O que é o nosso time de Cyber Security?  
+
+  
+
+Somos dedicados a proteger os ativos, informações e nossos funcionários. Trabalhamos proativamente para identificar e mitigar riscos, respondendo rapidamente a incidentes e promovendo uma cultura de segurança em toda a organização. Nosso compromisso é com a integridade, a confidencialidade e a disponibilidade dos recursos corporativos, assegurando a continuidade dos negócios e a confiança de nossos clientes
+
+
+Modelo de trabalho: Híbrido \- 3x Presencial
+
+
+Unidade: Osasco \- SP
+
+**Como será seu dia a dia?**
+
+
+Sendo Tech Lead, atuará na gerência Cyber Security e suas principais atividades serão:
+
+* Liderar a arquitetura, padrões e qualidade técnica dos produtos/plataformas de automação e IA aplicada à Segurança, em ambientes multi\-cloud de missão crítica.
+* Desenhar e implementar pipelines de segurança e IaC com segurança por padrão (Terraform, CloudFormation/Pulumi), GitOps, policy\-as\-code e controles preventivos/detectivos.
+* Construir integrações de segurança via APIs (SIEM, SOAR, CSPM/CNAPP, EDR/XDR, WAF, ITSM) e workflows orquestrados (n8n/Airflow) com resposta automatizada.
+* Projetar arquiteturas de IA seguras para casos SOC/Blue/Purple (RAG, agentes/autonomous agents), com guardrails, observabilidade, isolamento, MCP e data governance.
+* Implementar LLM Security by design: mitigação de prompt injection, validação/filtragem de conteúdo, proteção contra vazamento de dados, controle de contexto e limitação de capacidades.
+* Definir padrões para Kubernetes/Container Security (admissão, runtime, assinatura de imagens, supply chain), API Security, WAF/DDoS, criptografia, KMS, segredos.
+* Codificar bibliotecas e automações (Python/PowerShell/Bash), realizar code reviews, testes de segurança, SRE/SLOs e hardening de pipelines e runtimes.
+* Colaborar com Product Manager na viabilidade técnica, estimativas, trade‑offs e roadmaps; contribuir em RFPs e validações de fornecedores.
+
+**Requisitos e Qualificações**
+
+
+O que você precisa ter ou saber?
+
+* Cloud Security avançado (AWS/Azure/GCP): IAM, redes, KMS/criptografia, logs/auditoria, detecção nativa; CSPM/CNAPP, CWPP, CIEM.
+* Automação \& DevSecOps: Terraform/Pulumi/CloudFormation; CI/CD Security (GitHub Actions, GitLab CI, Jenkins); n8n/Airflow; policy\-as\-code (OPA/Conftest), secret management (ex.: Vault), GitOps (ArgoCD/Flux).
+* Plataformas \& Aplicações: Kubernetes (RBAC, PSP/Pod Security, admission controllers), container runtime, supply chain (SBOM, assinaturas), API Security (OAuth2/OIDC, mTLS).
+* IA aplicada à Segurança: Agentic AI, MCP, RAG (vetorização, controles de contexto), LLM Security (prompt injection, jailbreaks, model/data poisoning), MLOps Security (governança de experimento, tracking, aprovação/rollback).
+* Detecção \& Resposta: Integrações SIEM/SOAR/EDR/XDR, normalização de eventos, playbooks de resposta, automações de contenção, Purple Team para validar controles.
+* Criptografia e Identidade: PKI, TLS/mTLS, HSM/KMS, rotação de chaves/segredos; Zero Trust, IAM/PAM, segmentação.
+* Compliance e Frameworks: NIST CSF, CIS, ISO 27001/27017/27018, BACEN, PCI‑DSS, SOX, LGPD — traduzindo requisitos em controles técnicos e testes.
+
+
+Será um diferencial se você tiver:
+
+* Cloud \& Segurança Avançada: AWS Certified Security – Specialty, Azure Security Engineer Associate ou SC‑200/SC‑300/SC‑100, Google Professional Cloud Security Engineer, CCSP, CISSP.
+* Automação \& Cloud‑Native: GIAC GCSA (Cloud Security Automation), CKS/CKA, HashiCorp Terraform Associate.
+* Operações/Incident Response (desejável): GIAC GCIA/GCIH/GMON (ou equivalentes).
+* IA/ML (desejável): Azure AI Engineer Associate (AI‑102\), Google Professional Machine Learning Engineer, Cursos em NIST AI RMF e LLM Security.
+
+**O que nós oferecemos**
+
+
+No Bradesco valorizamos a saúde e bem\-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:
+
+
+* PLR ou Bônus: Conforme a elegibilidade de cargo\*
+
+
+* Convênio Médico
+
+
+* Convênio Odontológico
+
+
+* Seguro de Vida
+
+
+* Vale Alimentação
+
+
+* Vale Refeição
+
+
+* 13º Cesta Alimentação
+
+
+* Total Pass
+
+
+* Vale Transporte (adesão opcional)
+
+
+* Descontos em produtos e serviços em empresas parceiras
+
+
+* Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+
+
+* Viva Bem Bradesco: programa de saúde, bem\-estar e qualidade de vida
+
+
+* Unibrad: Universidade Corporativa Bradesco
+
+
+* Isenção de Tarifas: condições especiais em diversos produtos e serviços
+
+
+* Auxílio Creche ou Babá
+
+
+* Licença Paternidade estendida de 20 dias
+
+
+* Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós\-parto

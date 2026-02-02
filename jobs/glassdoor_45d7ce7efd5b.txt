@@ -1,0 +1,68 @@
+Sr Product Owner (Anti-Fraud) - RecargaPay
+
+**Come Make an Impact on Millions of Brazilians!**
+
+
+At RecargaPay, we’re on a mission to deliver the best payment experience for Brazilian consumers and small businesses — by building a powerful digital ecosystem where the banked and unbanked connect, and where consumers and merchants have a one\-stop shop for all their financial needs.
+
+
+We serve over 12 million users and process more than USD 4 billion annually. We’ve been profitable since 2022 and operate our own credit business. We are an AI\-first, 100% remote team, scaling in the rapidly changing Brazilian financial market.
+
+
+Our goal? Deliver the best payment experience in Brazil for people and small businesses alike.
+
+
+We value autonomy, ownership, and a bias for action. We’re looking for people who are curious, hands\-on, and driven by impact — who want to solve real problems, work with strong teams, and rethink what’s possible.
+
+**If you’re ready to do your best work, at scale, with purpose — this is your place.**
+
+
+We are looking for a Senior/Specialist Product Manager to lead the Anti\-Fraud Squad. You will be the owner of the defense of our ecosystem, acting as a technical counterpart to the Engineering and Data Science teams.
+
+
+Your main challenge will be to evolve our security infrastructure (Chargeback Prevention, PIX Fraud, Account Takeover), balancing strong business protection with an excellent user experience. More than managing a backlog, we are looking for someone who can dive deep into data to uncover patterns and lead the structuring of new Machine Learning and AI models.
+
+### **Responsibilities**
+
+* Strategy \& Discovery \- Define the roadmap for fraud prevention products, proactively identifying new threats and optimization opportunities in risk engines.
+* Data\-Driven Decision Making \- Get hands\-on with data. You will have autonomy to run your own SQL queries to validate hypotheses, extract performance reports, and justify project prioritization based on financial and operational data.
+* ML/AI Lifecycle Management \- Actively participate in the design and evolution of Machine Learning models, translating complex business rules into clear requirements for Data Science and Engineering teams.
+* Delivery \& Backlog Management \- Turn strategy into clear, technical User Stories, manage a prioritized backlog, and ensure continuous value delivery with the development team.
+
+Performance \& KPIs \- Closely monitor success metrics (Fraud Rate, Approval Rate, False Positives, Chargeback) and report the impact of initiatives to leadership.  
+* 
+
+**Requirements**
+
+* Senior Experience as PM/PO \- Proven track record managing digital products with high transaction volumes.
+* Hands\-on Analytical Profile \- Solid SQL knowledge to independently run queries, join datasets, and perform analyses (no need to be a DBA, but autonomy is required).
+* Payments / Fraud Background \- Previous experience with payment methods (Acquiring, Issuers, Schemes) and/or fraud prevention tools.
+* Business Acumen \- Ability to balance financial risk (losses) with user friction (conversion).
+* Communication Skills \- Ability to communicate technically with developers and data scientists, and strategically with business stakeholders.
+
+### **Nice to Have**
+
+* Machine Learning / AI Experience \- Experience in projects involving the development or retraining of predictive models.
+* Statistical Knowledge \- For deeper behavioral analysis and modeling.
+* Languages \- English and/or Spanish (technical reading and international benchmarks).
+
+**Benefits**
+
+* Competitive and market\-aligned salary.
+* Remote work — wherever you are, you’re part of the team!
+* Home office allowance through a monthly deposit in the RecargaPay app.
+* Health and dental plans with no co\-pay.
+* Life insurance.
+* Flexible meal allowance (via Flash).
+* TotalPass membership to take care of your health.
+* Spanish or Portuguese classes.
+
+### **Diversity \& Inclusion at RecargaPay**
+
+
+At RecargaPay, you’ll have the freedom to be who you are because we believe that diverse perspectives and experiences make us more creative and stronger. Here, everyone is welcome to express themselves authentically. We value the richness of each journey and the multiple ways of seeing the world, without distinctions of gender, race, sexual orientation, age, religion, or any other characteristic that makes us unique.
+
+### **About the Use of Your Data**
+
+
+By sharing your resume with us, you authorize the use of your data for analysis during the selection process and possibly for other opportunities within the RecargaPay group. You can request the update or deletion of your information at any time, in accordance with LGPD (General Data Protection Law).

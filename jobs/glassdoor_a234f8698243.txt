@@ -1,0 +1,58 @@
+AI Product Manager - Agentic Development - dLocal
+
+Why should you join dLocal?  
+
+dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest\-growing, emerging markets.  
+
+By joining us you will be a part of an amazing global team that makes it all happen, in a flexible, remote\-first dynamic culture with travel, health and learning benefits, among others. Being a part of dLocal means working with 1000\+ teammates from 30\+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer\-centric, and if this sounds like you, we know you will thrive in our team. **About Agentic Development at dLocal**
+Our Agentic Development product accelerates software delivery by turning well‑formed requirements into ready‑to‑review pull requests, tightly integrated with our SDLC. This is a strategic lever to shorten lead time, improve quality and consistency, and free developers to focus on higher‑value work. **Role Overview**
+We are seeking an AI Product Manager to own and scale our Agentic Development product. Your mandate is threefold: expand capabilities, drive adoption, and measurably reduce development lead time. You will partner with the Development Productivity, Engineering, AI, Security, and domain teams to define the roadmap, ship improvements to the planning/execution/validation flows, and build the telemetry and change‑management needed for company‑wide adoption. This role requires real, hands‑on software development experience alongside product leadership and applied AI experience. **Mindset we value**
+You are a builder‑first PM, outcome‑oriented with a bias to measurable lead‑time and quality gains; a systems thinker who links upstream inputs to downstream outcomes; and pragmatic on AI: clear on where agents excel or fail and how to instrument, gate, and iterate safely.  
+
+
+### **Key Responsibilities**
+
+* **Product strategy and roadmap:** Define the strategy for Agentic Development across the SDLC; prioritize capabilities that expand task coverage, increase first‑pass PR quality, and reduce rework.
+* **Expand capabilities of the agent:** Improve ticket understanding and planning, broaden language/repo/task coverage, harden validation (build/test/security), and evolve orchestration/runtime to boost throughput and reliability.
+* **Prioritization, metrics, and impact:** Instrument and track operational and impact metrics (e.g., funnel conversion, PR first‑pass approval, cycle time decomposition, DORA‑adjacent signals) and use them to guide the roadmap and rollouts.
+* **Developer adoption and enablement:** Drive onboarding at the squad/team level; standardize templates and best practices (e.g., repository conventions, testing gates); deliver clear documentation, demos, and training to increase usage and satisfaction.
+* **Safety, governance, and compliance:** Ensure adherence to SDLC policies, auditability of agent actions, and alignment with risk/security requirements.
+* **Cross‑functional leadership:** Partner with Developer Productivity and the rest of the involved teams to ship high‑quality, scalable improvements.
+* **Execution and iteration:** Write crisp requirements and acceptance criteria, run controlled rollouts/experiments, analyze outcomes, and iterate quickly; triage issues and prioritize fixes that unblock teams and keep momentum.
+* **Stakeholder communication:** Maintain operating artifacts (decision logs, KPI tracker, partner requests), and provide updates to leadership on progress, risks, and next bets.
+
+### **What You’ll Need**
+
+* **Real software development experience:** 5\+ years hands‑on software engineering, having shipped and operated production code; fluency with Git, code review, CI/testing, and modern backend or frontend stacks.
+* **Product management experience:** 3\+ years as a PM (or equivalent product ownership), preferably in developer tools, platforms, ML/AI systems, or infrastructure; track record of shipping impactful products.
+* **Applied AI exposure:** Practical experience building with LLMs/agents (function calling/tools, retrieval/context engineering, evaluation harnesses), and balancing capability with safety/cost.
+* **Technical depth plus product judgment:** Ability to read/reference code and architecture, prototype to de‑risk ideas, and define clear problem statements, metrics, and success criteria.
+* **Data‑driven execution:** Comfortable designing metrics, running experiments, and using telemetry to prioritize and validate changes.
+* **Communication and leadership:** Excellent written/spoken communication; proven ability to align engineering, platform, and business stakeholders.
+
+ **Nice to Have*** Experience with agent orchestration/runtime frameworks and workflows (e.g., Metaflow, Argo/Airflow, LangGraph), and LLM observability (e.g., Langfuse/Langsmith).
+* Knowledge base/MCP‑style integrations, vector search/RAG, and best‑practices standardization for developer agents.
+* Familiarity with CI/test strategies across languages (Java/Go/Python/TypeScript), security scanning and dependency management.
+* Background in fintech/payments or other regulated environments; experience with SDLC/audit requirements.
+* Fluency in English. Spanish or Portuguese is a plus.
+
+
+What do we offer?  
+
+Besides the tailored benefits we have for each country, dLocal will help you thrive and go that extra mile by offering you:* Flexibility: we have flexible schedules and we are driven by performance.
+* Fintech industry: work in a dynamic and ever\-evolving environment, with plenty to build and boost your creativity.
+
+
+\- Referral bonus program: our internal talents are the best recruiters \- refer someone ideal for a role and get rewarded.* Learning \& development: get access to a Premium Coursera subscription.
+* Language classes: we provide free English, Spanish, or Portuguese classes.
+* Social budget: you'll get a monthly budget to chill out with your team (in person or remotely) and deepen your connections!
+* dLocal Houses: want to rent a house to spend one week anywhere in the world coworking with your team? We’ve got your back!
+
+  
+
+What happens after you apply?
+Our Talent Acquisition team is invested in creating the best candidate experience possible, so don’t worry, you will definitely hear from us. We will review your CV and keep you posted by email at every step of the process!  
+
+Also, you can check out our webpage, Linkedin, Instagram, and Youtube for more about dLocal!
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

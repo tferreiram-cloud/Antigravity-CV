@@ -1,0 +1,43 @@
+Product Manager - KYC - dLocal
+
+**Why should you join dLocal?**
+dLocal enables the biggest companies in the world to collect payments in 40 countries in emerging markets. Global brands rely on us to increase conversion rates and simplify payment expansion effortlessly. As both a payments processor and a merchant of record where we operate, we make it possible for our merchants to make inroads into the world’s fastest\-growing, emerging markets.  
+
+By joining us you will be a part of an amazing global team that makes it all happen, in a flexible, remote\-first dynamic culture with travel, health and learning benefits, among others. Being a part of dLocal means working with 1000\+ teammates from 30\+ different nationalities and developing an international career that impacts millions of people’s daily lives. We are builders, we never run from a challenge, we are customer\-centric, and if this sounds like you, we know you will thrive in our team. **What’s the opportunity?**  
+
+We are seeking a Product Manager to lead KYC integrations and AI tools, overseeing the providers that verify identities, ensuring compliant user activation at scale.
+### **What will I be doing?**
+
+* Own the end\-to\-end strategy and execution for KYC/KYB integrations (vendors, data sources, internal services), from discovery to launch and iteration.
+* Integrate Global Providers: Manage integrations with data and identity validation providers worldwide to ensure robust and efficient compliance workflows, building a smart router to channel verifications according to coverage, pricing, and service availability.
+* Leverage Data for Decision\-Making: Analyze compliance\-related data to identify opportunities for improvement, make informed decisions, and proactively address regulatory challenges. Experience with machine learning models is welcome, as well as high\-quality datasets (labeling standards, sampling) and running rigorous model evaluations (offline metrics, backtests, and online A/Bs).
+* Collaborate Across Teams: Work closely with engineering, legal, and operations teams to deliver scalable and innovative compliance solutions tailored to emerging markets.
+* Balance Compliance and Business Goals: Design strategies that enhance regulatory compliance while minimizing business impact, optimizing conversion rates, and maintaining a seamless user experience. Do whatever it takes to make your product and teams successful, no matter how big or small the issue may be.
+* Work closely with other product teams around the world to ensure the solutions developed can meet our customers' needs
+
+### **What skills do I need?**
+
+* Minimum 3\+ years of experience in Product Management, preferably in financial services or e\-commerce/ marketplaces.
+* Knowledge of Compliance/Regulatory practices, such as AML, identity validation, is nice to have.
+* Experience managing technical software products from kick\-off to ship
+* Capable of leading 3rd party API integrations
+* Proficient with data, comfortable using SQL, data sets, and model evaluations.
+* Excellent written and oral communication skills in English
+
+**What do we offer?**  
+
+Besides the tailored benefits we have for each country, dLocal will help you thrive and go that extra mile by offering you:* Flexibility: we have flexible schedules and we are driven by performance.
+* Fintech industry: work in a dynamic and ever\-evolving environment, with plenty to build and boost your creativity.
+
+
+\- Referral bonus program: our internal talents are the best recruiters \- refer someone ideal for a role and get rewarded.* Learning \& development: get access to a Premium Coursera subscription.
+* Language classes: we provide free English, Spanish, or Portuguese classes.
+* Social budget: you'll get a monthly budget to chill out with your team (in person or remotely) and deepen your connections!
+* dLocal Houses: want to rent a house to spend one week anywhere in the world coworking with your team? We’ve got your back!
+
+ **What happens after you apply?**
+Our Talent Acquisition team is invested in creating the best candidate experience possible, so don’t worry, you will definitely hear from us. We will review your CV and keep you posted by email at every step of the process!  
+
+Also, you can check out our webpage, Linkedin, Instagram, and Youtube for more about dLocal!
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
